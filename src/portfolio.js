@@ -21,11 +21,11 @@ const greeting = {
   title: "Lily Pad Plunge",
   logo_name: "AlphaKappas",
   nickname: "ALPHA KAPPAS",
-  subTitle: "a fun arcade game",
+  subTitle: "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Inspired by a claw machine, our game will feature a frog that users can maneuver left and right, aiming to drop it onto moving lily pads",
   resumeLink:
     "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+  portfolio_repository: "https://github.com/ttalphakappa/website_/tree/main",
+  githubProfile: "https://github.com/ttalphakappa",
 };
 
 const socialMediaLinks = [
