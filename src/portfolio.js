@@ -52,7 +52,7 @@ const skills = {
           skillName: "gears",
           fontAwesomeClassname: "fa:gears",
           style: {
-            backgroundColor: "white",
+            backgroundColor: "transparent",
             color: "#D00000",
           },
         },
