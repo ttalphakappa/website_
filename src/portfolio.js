@@ -21,7 +21,7 @@ const greeting = {
   title: "Lily Pad Plunge",
   logo_name: "AlphaKappas",
   nickname: "ALPHA KAPPAS",
-  subTitle: "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Inspired by a claw machine, our game will feature a frog that users can maneuver left and right, aiming to drop it onto moving lily pads",
+  subTitle: "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Featuring a frog that users can maneuver, aiming to drop it onto moving lily pads",
   resumeLink:
     "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
   portfolio_repository: "https://github.com/ttalphakappa/website_/tree/main",
@@ -37,32 +37,32 @@ const socialMediaLinks = [
   },
 ];
 
-//const skills = {
-  //data: [
-    //{
-    //  title: "Data Science & AI",
-      //fileName: "DataScienceImg",
-      //skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
-      //],
-      //softwareSkills: [
-        //{
-          //skillName: "Tensorflow",
-          //fontAwesomeClassname: "logos-tensorflow",
-          //style: {
-            //backgroundColor: "transparent",
-          }//,
-        }//,
-        //{
-          //skillName: "Keras",
-          //fontAwesomeClassname: "simple-icons:keras",
-          //style: {
-            //backgroundColor: "white",
-            //color: "#D00000",
-          }//,
-        }//,
+const skills = {
+  data: [
+    {
+      title: "Mechanics",
+      fileName: "DataScienceImg",
+      skills: [
+        "⚡ gantry system",
+        "⚡ servo motors",
+        "⚡ pulley system",
+      ],
+      /***softwareSkills: [
+        {
+          skillName: "Tensorflow",
+          fontAwesomeClassname: "logos-tensorflow",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Keras",
+          fontAwesomeClassname: "simple-icons:keras",
+          style: {
+            backgroundColor: "white",
+            color: "#D00000",
+          },
+        },
         {
           skillName: "PyTorch",
           fontAwesomeClassname: "logos-pytorch",
@@ -82,7 +82,7 @@ const socialMediaLinks = [
           skillName: "Deeplearning",
           imageSrc: "deeplearning_ai_logo.png",
         },
-      ],
+      ],***/
    },
     {
       title: "Full Stack Development",
