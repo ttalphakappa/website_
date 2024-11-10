@@ -49,7 +49,7 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "gears",
+          skillName: "geas",
           fontAwesomeClassname: "fa:gears",
           style: {
             backgroundColor: "transparent",
