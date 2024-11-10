@@ -57,7 +57,7 @@ const skills = {
           },
         },
       ],
-   },
+   }
     /**{
       title: "Full Stack Development",
       fileName: "FullStackImg",
