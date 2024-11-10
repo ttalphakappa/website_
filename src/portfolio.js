@@ -49,8 +49,8 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
+          skillName: "gears",
+          fontAwesomeClassname: "fa:gears",
           style: {
             backgroundColor: "white",
             color: "#D00000",
