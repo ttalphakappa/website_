@@ -37,32 +37,32 @@ const socialMediaLinks = [
   },
 ];
 
-const skills = {
-  data: [
-    {
-      title: "Data Science & AI",
-      fileName: "DataScienceImg",
-      skills: [
+//const skills = {
+  //data: [
+    //{
+    //  title: "Data Science & AI",
+      //fileName: "DataScienceImg",
+      //skills: [
         "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
         "⚡ Experience of working with Computer Vision and NLP projects",
         "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
+      //],
+      //softwareSkills: [
+        //{
+          //skillName: "Tensorflow",
+          //fontAwesomeClassname: "logos-tensorflow",
+          //style: {
+            //backgroundColor: "transparent",
+          }//,
+        }//,
+        //{
+          //skillName: "Keras",
+          //fontAwesomeClassname: "simple-icons:keras",
+          //style: {
+            //backgroundColor: "white",
+            //color: "#D00000",
+          }//,
+        }//,
         {
           skillName: "PyTorch",
           fontAwesomeClassname: "logos-pytorch",
@@ -83,7 +83,7 @@ const skills = {
           imageSrc: "deeplearning_ai_logo.png",
         },
       ],
-    },
+   },
     {
       title: "Full Stack Development",
       fileName: "FullStackImg",
