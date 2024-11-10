@@ -8,19 +8,19 @@ const settings = {
 //SEO Related settings
 const seo = {
   title: "Lily Pad Plunge",
-  description: "fun arcade game",
+  description: "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Inspired by a claw machine, our game will feature a frog that users can maneuver left and right, aiming to drop it onto moving lily pads",
   og: {
     title: "Lily Pad Plunge",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://lilypadplunge.netlify.app/home",
   },
 };
 
 //Home Page
 const greeting = {
   title: "Lily Pad Plunge",
-  logo_name: "AshutoshHathidara",
-  nickname: "alpha kappas",
+  logo_name: "AlphaKappas",
+  nickname: "ALPHA KAPPAS",
   subTitle: "a fun arcade game",
   resumeLink:
     "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
