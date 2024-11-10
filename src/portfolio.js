@@ -47,14 +47,7 @@ const skills = {
         "⚡ servo motors",
         "⚡ pulley system",
       ],
-      /***softwareSkills: [
-        {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
+      softwareSkills: [
         {
           skillName: "Keras",
           fontAwesomeClassname: "simple-icons:keras",
@@ -82,7 +75,7 @@ const skills = {
           skillName: "Deeplearning",
           imageSrc: "deeplearning_ai_logo.png",
         },
-      ],***/
+      ],
    },
     {
       title: "Full Stack Development",
