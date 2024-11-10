@@ -58,7 +58,7 @@ const skills = {
         },
       ],
    },
-    {
+    /**{
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
@@ -139,7 +139,7 @@ const skills = {
           },
         },
       ],
-    },
+    }**/,
     {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
