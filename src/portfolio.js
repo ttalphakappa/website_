@@ -18,7 +18,7 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Lily Pad Plunge",
+  title: "Alpha Kappas",
   logo_name: "AlphaKappas",
   nickname: "ALPHA KAPPAS",
   subTitle: "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Featuring a frog that users can maneuver, aiming to drop it onto moving lily pads",
