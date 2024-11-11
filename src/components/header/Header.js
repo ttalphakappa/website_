@@ -69,7 +69,7 @@ class Header extends Component {
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
                   onMouseOut={(event) => onMouseOut(event)}
                 >
-                  Mechanical
+                  Timeline
                 </NavLink>
               </li>
               <li>
@@ -81,7 +81,7 @@ class Header extends Component {
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
                   onMouseOut={(event) => onMouseOut(event)}
                 >
-                  Electrical
+                  Mechanical + Electrical
                 </NavLink>
               </li>
               <li>
