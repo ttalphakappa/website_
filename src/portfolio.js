@@ -648,7 +648,7 @@ description:
    ],
  };
 //timeline page
-const opensourse = {
+const opensource = {
    title: "Timeline",
    subtitle: "the timeline of our engineering project",
    description:
@@ -852,5 +852,6 @@ const opensourse = {
  projectsHeader,
  publicationsHeader,
  publications,
+ opensource,
  contactPageData,
 };
