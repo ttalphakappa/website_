@@ -656,7 +656,7 @@ description:
     description:
       "We are a group of emerging engineers who are passionate about many different things and love to be creative!",
   },
-  blogSection: {
+  /**blogSection: {
     title: "Blogs",
     subtitle:
       "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
@@ -677,7 +677,7 @@ description:
   phoneSection: {
     title: "",
     subtitle: "",
-  },
+  },**/
 };
 
  export {
