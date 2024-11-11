@@ -682,16 +682,16 @@ description:
 // };
 
 // export {
-settings,
-seo,
-greeting,
+// settings,
+// seo,
+// greeting,
 //   socialMediaLinks,
 //   skills,
 //   competitiveSites,
 //   degrees,
 //   certifications,
 //   experience,
-projectsHeader
+// projectsHeader
 //   publicationsHeader,
 //   publications,
 //   contactPageData,
