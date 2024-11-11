@@ -454,7 +454,7 @@ const certifications = {
    subtitle: "the mechanical aspects of our engineering project",
    description:
      "the frame, conveyor belt system, the gantry system",
-   header_image_path: "src/assets/images/Gantry-Systems-Working-Outside-and-Envelope.jpg",
+   header_image_path: "Gantry-Systems-Working-Outside-and-Envelope.jpg",
    sections: [
      {
        title: "The Frame",
