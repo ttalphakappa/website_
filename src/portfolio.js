@@ -448,21 +448,22 @@ const certifications = {
   ],
 };
 
- // Mechanical Page
+
+ // Timeline Page
  const experience = {
-   title: "Mechanical",
-   subtitle: "the mechanical aspects of our engineering project",
+   title: "Timeline",
+   subtitle: "the timeline of our engineering project",
    description:
-     "the frame, conveyor belt system, the gantry system",
+     "10/20 - 11/13",
    header_image_path: "Gantry-Systems-Working-Outside-and-Envelope.jpg",
    sections: [
      {
-       title: "The Frame",
+       title: "Week 1",
        work: true,
        experiences: [
          {
-           title: "kevin has no clue",
-           company: "yap yap",
+           title: "10/20 - 10/27",
+           company: "lots of cading, figuring out",
            //company_url: "https://www.tiktok.com/en/",
            logo_path: "Unknown.png",
            //duration: "June 2023 - Present",
@@ -472,7 +473,7 @@ const certifications = {
            color: "#000000",
          },
          {
-           title: "Associate AI Engineer",
+           title: "week 2",
            company: "Legato Health Technology",
            company_url: "https://legatohealthtech.com/",
            logo_path: "legato_logo.png",
@@ -482,7 +483,7 @@ const certifications = {
            color: "#0879bf",
          },
          {
-           title: "Android and ML Developer",
+           title: "week 3",
            company: "Muffito Incorporation",
            company_url: "https://www.linkedin.com/company/muffito-inc/about/",
            logo_path: "muffito_logo.png",
@@ -506,7 +507,7 @@ const certifications = {
        ],
      },
      {
-       title: "Conveyor Belt System",
+       title: "week 2",
        experiences: [
          {
            title: "Machine Learning Intern",
@@ -545,7 +546,7 @@ const certifications = {
        ],
      },
      {
-       title: "The Gantry System",
+       title: "week 3",
        experiences: [
          {
            title: "Google Explore ML Facilitator",
@@ -608,11 +609,11 @@ const certifications = {
    ],
  };
 
-// // Projects Page
+// mech + electical Page
 const projectsHeader = {
-title: "Electrical",
+title: "Mechanical + Electrical",
 description:
-"different wires and pins",
+"different wires and pins and the mechanical parts",
  avatar_image_path: "projects_image.svg",
 };
 
@@ -650,10 +651,10 @@ description:
  // Contact Page
  const contactPageData = {
   contactSection: {
-    title: "About the Team",
+    title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "We are a group of engineers!",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
   blogSection: {
     title: "Blogs",
