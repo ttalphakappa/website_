@@ -655,7 +655,8 @@ description:
      profile_image_path: "animated_ashutosh.png",
      description:
        "We are the Alpha Kappa Pledge Class!",
-   }
+  }
+};
    //blogSection: {
      //title: "Blogs",
      //subtitle:
@@ -678,7 +679,7 @@ description:
     //title: "",
      //subtitle: "",
    //},
- };
+
 
  export {
  settings,
