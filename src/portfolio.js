@@ -454,7 +454,7 @@ const certifications = {
    subtitle: "the mechanical aspects of our engineering project",
    description:
      "the frame, conveyor belt system, the gantry system",
-   header_image_path: "experience.svg",
+   header_image_path: "Gantry-Systems-Working-Outside-and-Envelope.jpg",
    sections: [
      {
        title: "The Frame",
@@ -680,18 +680,18 @@ description:
    },
  };
 
-// export {
-// settings,
-// seo,
-// greeting,
-//   socialMediaLinks,
-//   skills,
-//   competitiveSites,
-//   degrees,
-//   certifications,
-//   experience,
-// projectsHeader,
-//   publicationsHeader,
-//   publications,
-//   contactPageData,
-// };
+ export {
+   settings,
+   seo,
+   greeting,
+   socialMediaLinks,
+   skills,
+   competitiveSites,
+   degrees,
+   certifications,
+   experience,
+   projectsHeader,
+   publicationsHeader,
+   publications,
+   contactPageData,
+ };
