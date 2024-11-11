@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "LilyPadPlunge",
+  "name": "Lily Pad Plunge",
   "version": "0.1.0",
   "homepage": "https://ttalphakappa.github.io",
   "scripts": {
@@ -14,6 +14,7 @@
   "dependencies": {
     "apollo-boost": "^0.4.4",
     "baseui": "^9.65.3",
+    "caniuse-lite": "^1.0.30001680",
     "chart.js": "^2.9.3",
     "gh-pages": "^2.1.1",
     "node-fetch": "^2.6.0",
