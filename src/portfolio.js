@@ -615,7 +615,7 @@ title: "Electrical",
 description:
 "different wires and pins",
  avatar_image_path: "projects_image.svg",
- };
+};
 
 // const publicationsHeader = {
 //   title: "Publications",
@@ -691,7 +691,7 @@ description:
 //   degrees,
 //   certifications,
 //   experience,
- projectsHeader
+projectsHeader
 //   publicationsHeader,
 //   publications,
 //   contactPageData,
