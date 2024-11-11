@@ -448,7 +448,7 @@ const certifications = {
   ],
 };
 
- // Experience Page
+ // Mechanical Page
  const experience = {
    title: "Mechanical",
    subtitle: "the mechanical aspects of our engineering project",
@@ -457,7 +457,7 @@ const certifications = {
    header_image_path: "experience.svg",
    sections: [
      {
-       title: "Work",
+       title: "The Frame",
        work: true,
        experiences: [
          {
@@ -506,7 +506,7 @@ const certifications = {
        ],
      },
      {
-       title: "Internships",
+       title: "Conveyor Belt System",
        experiences: [
          {
            title: "Machine Learning Intern",
@@ -545,7 +545,7 @@ const certifications = {
        ],
      },
      {
-       title: "Volunteerships",
+       title: "The Gantry System",
        experiences: [
          {
            title: "Google Explore ML Facilitator",
