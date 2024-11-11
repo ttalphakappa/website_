@@ -454,21 +454,21 @@ const certifications = {
    subtitle: "the mechanical aspects of our engineering project",
    description:
      "the frame, conveyor belt system, the gantry system",
-   header_image_path: "src/assets/images/Gantry-Systems-Working-Outside-and-Envelope.jpg",
+   header_image_path: "Gantry-Systems-Working-Outside-and-Envelope.jpg",
    sections: [
      {
        title: "The Frame",
        work: true,
        experiences: [
          {
-           title: "Machine Learning Engineer",
-           company: "TikTok Inc.",
-           company_url: "https://www.tiktok.com/en/",
-           logo_path: "tiktok_logo.png",
-           duration: "June 2023 - Present",
-           location: "San Jose, CA, USA",
+           title: "kevin has no clue",
+           company: "yap yap",
+           //company_url: "https://www.tiktok.com/en/",
+           logo_path: "Unknown.png",
+           //duration: "June 2023 - Present",
+           //location: "San Jose, CA, USA",
            description:
-             "Improving ads ranking models on the core TikTok product. Experience working on modeling two-tower architectures like DeepFM, Wide & deep learning, etc. Working on Large Language Models (LLM) pretraining and Large Multi-modal Model (LMM) finetuning strategies.",
+             "the frame houses all the stuff",
            color: "#000000",
          },
          {
