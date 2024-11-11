@@ -450,10 +450,10 @@ const certifications = {
 
  // Experience Page
  const experience = {
-   title: "Experience",
-   subtitle: "Work, Internship and Volunteership",
+   title: "Mechanical",
+   subtitle: "the mechanical aspects of our engineering project",
    description:
-     "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+     "the frame, conveyor belt system, the gantry system",
    header_image_path: "experience.svg",
 //   sections: [
 //     {
