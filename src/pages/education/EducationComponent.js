@@ -8,7 +8,7 @@ import CompetitiveSites from "../../components/competitiveSites/CompetitiveSites
 import EducationImg from "./EducationImg";
 import { competitiveSites } from "../../portfolio";
 import { certifications } from "../../portfolio";
-// import "./EducationComponent.css";
+import "./EducationComponent.css";
 import { Fade } from "react-reveal";
 
 class Education extends Component {
