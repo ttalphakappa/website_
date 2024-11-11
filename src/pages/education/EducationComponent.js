@@ -15,9 +15,9 @@ class Education extends Component {
   render() {
     const theme = this.props.theme;
     return (
-      <div className="education-main">
+      <div className="software-main">
         <Header theme={this.props.theme} />
-        <div className="basic-education">
+        <div className="basic-software">
           <Fade bottom duration={2000} distance="40px">
             <div className="heading-div">
               <div className="heading-img-div">
