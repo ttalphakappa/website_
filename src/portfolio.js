@@ -691,7 +691,7 @@ description:
 //   degrees,
 //   certifications,
 //   experience,
-//   projectsHeader,
+ projectsHeader
 //   publicationsHeader,
 //   publications,
 //   contactPageData,
