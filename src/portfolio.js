@@ -656,7 +656,7 @@ description:
      description:
        "We are the Alpha Kappa Pledge Class!",
   }
-};
+
    //blogSection: {
      //title: "Blogs",
      //subtitle:
@@ -679,7 +679,7 @@ description:
     //title: "",
      //subtitle: "",
    //},
-
+};
 
  export {
  settings,
