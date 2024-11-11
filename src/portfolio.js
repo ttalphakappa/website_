@@ -682,9 +682,9 @@ description:
 // };
 
 // export {
-//   settings,
-//   seo,
-//   greeting,
+settings,
+seo,
+greeting,
 //   socialMediaLinks,
 //   skills,
 //   competitiveSites,
