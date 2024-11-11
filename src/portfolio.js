@@ -461,9 +461,9 @@ const certifications = {
        work: true,
        experiences: [
          {
-           title: "Machine Learning Engineer",
-           company: "TikTok Inc.",
-           company_url: "https://www.tiktok.com/en/",
+           title: "kevin has no clue",
+           company: "yap yap",
+           //company_url: "https://www.tiktok.com/en/",
            logo_path: "tiktok_logo.png",
            duration: "June 2023 - Present",
            location: "San Jose, CA, USA",
