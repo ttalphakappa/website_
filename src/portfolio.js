@@ -507,7 +507,7 @@ const certifications = {
        ],
      },
      {
-       title: "Conveyor Belt System",
+       title: "week 2",
        experiences: [
          {
            title: "Machine Learning Intern",
@@ -546,7 +546,7 @@ const certifications = {
        ],
      },
      {
-       title: "The Gantry System",
+       title: "week 3",
        experiences: [
          {
            title: "Google Explore ML Facilitator",
