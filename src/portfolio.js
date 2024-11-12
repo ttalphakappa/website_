@@ -627,19 +627,19 @@ description:
    ],
  };
  // Contact Page
- const contactPageData = {
+ /*const contactPageData = {
   contactSection: {
-    title: "Contact Me",
+    title: "ALPHA KAPPA PLEDGE CLASS",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "We are a group of emerging engineers who are passionate about many different things and love to be creative!",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
       "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
     link: "https://blogs.ashutoshhathidara.com/",
-    avatar_image_path: "blogs_image.svg",
+    avatar_image_path: "blogs_image.svg"
   },
   addressSection: {
     title: "Address",
@@ -656,7 +656,44 @@ description:
     title: "",
     subtitle: "",
   },
+}*/
+// portfolio.js
+import React from 'react';
+import ContactComponent from './contact/ContactComponent';
+
+const contactPageData = {
+    title: "Contact Page",
+    description: "This is the contact page data.",
+    // add other properties as needed
 };
+
+const teamMembers = [
+    { name: 'Member 1', role: 'Developer', contribution: 'Worked on frontend design' },
+    { name: 'Member 2', role: 'Backend Engineer', contribution: 'Built REST API' },
+    // ... add all 12 members here
+];
+
+const Portfolio = () => {
+    return (
+        <div className="contact-main">
+            <h1 className="contact-heading-text">Team Contributions</h1>
+            <div className="team-container">
+                {teamMembers.map((member, index) => (
+                    <ContactComponent 
+                        key={index} 
+                        name={member.name} 
+                        role={member.role} 
+                        contribution={member.contribution} 
+                    />
+                ))}
+            </div>
+        </div>
+    );
+};
+
+export default Portfolio;
+
+
 
  export {
  settings,
