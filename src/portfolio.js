@@ -683,6 +683,17 @@ description:
 import React from 'react';
 import ContactComponent from './ContactComponent';
 
+const contactPageData = {
+    title: "Contact Page",
+    description: "This is the contact page data.",
+    // add other properties as needed
+};
+
+export { 
+    // other exports
+    contactPageData,
+};
+
 const teamMembers = [
     { name: 'Member 1', role: 'Developer', contribution: 'Worked on frontend design' },
     { name: 'Member 2', role: 'Backend Engineer', contribution: 'Built REST API' },
