@@ -652,17 +652,17 @@ description:
  const contactPageData = {
   contactSection: {
     title: "ALPHA KAPPA PLEDGE CLASS",
-    //profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "animated_ashutosh.png",
     description:
       "We are a group of emerging engineers who are passionate about many different things and love to be creative!",
   },
-   /*blogSection: {
+  blogSection: {
     title: "Blogs",
     subtitle:
       "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
     link: "https://blogs.ashutoshhathidara.com/",
     avatar_image_path: "blogs_image.svg"
-  },*/
+  },
   addressSection: {
     title: "Address",
     subtitle: "Saratoga Ave, San Jose, CA, USA 95129",
