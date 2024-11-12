@@ -469,7 +469,7 @@ const certifications = {
            //duration: "June 2023 - Present",
            //location: "San Jose, CA, USA",
            description:
-             "Brainstormed potential ideas. \n Bought materials from Amazon and Home Depot. \n Created CAD designs for all parts",
+             "Brainstormed potential ideas.\nBought materials from Amazon and Home Depot.\nCreated CAD designs for all parts",
            color: "#000000",
          },
          {
