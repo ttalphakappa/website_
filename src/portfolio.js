@@ -681,7 +681,7 @@ description:
 }*/
 // portfolio.js
 import React from 'react';
-import ContactComponent from './contact_component';
+import ContactComponent from './ContactComponent';
 
 const teamMembers = [
     { name: 'Member 1', role: 'Developer', contribution: 'Worked on frontend design' },
@@ -691,8 +691,8 @@ const teamMembers = [
 
 const Portfolio = () => {
     return (
-        <div>
-            <h1>Team Contributions</h1>
+        <div className="contact-main">
+            <h1 className="contact-heading-text">Team Contributions</h1>
             <div className="team-container">
                 {teamMembers.map((member, index) => (
                     <ContactComponent 
@@ -708,6 +708,7 @@ const Portfolio = () => {
 };
 
 export default Portfolio;
+
 
 
  export {
