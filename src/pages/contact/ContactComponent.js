@@ -142,11 +142,6 @@ export default Contact;*/
 
 // contact_component.js
 import React from 'react';
-import Header from "../../components/header/Header";
-import Footer from "../../components/footer/Footer";
-import TopButton from "../../components/topButton/TopButton";
-import Button from "../../components/button/Button";
-import { Fade } from "react-reveal";
 import './ContactComponent.css';
 
 const ContactComponent = ({ name, role, contribution }) => {
