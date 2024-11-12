@@ -1,4 +1,4 @@
-.contact-main {
+/*.contact-main {
   width: 100%;
 }
 
@@ -191,4 +191,23 @@
     line-height: normal;
     text-align: center;
   }
+}*//* contact_component.css */
+.contact-card {
+    border: 1px solid #ddd;
+    padding: 16px;
+    margin: 8px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
 }
+
+.contact-card h3 {
+    margin: 0;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.contact-card p {
+    margin: 4px 0;
+    color: #555;
+}
+
