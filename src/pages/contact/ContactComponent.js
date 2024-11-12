@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+/*import React, { Component } from "react";
 import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
 import TopButton from "../../components/topButton/TopButton";
@@ -76,11 +76,11 @@ class Contact extends Component {
                   />
                 </div>
               </div>
-              <div className="blog-heading-img-div">
+              <div className="blog-heading-img-div">/*
                 {/* <img
 											src={require(`../../assets/images/${blogSection["avatar_image_path"]}`)}
 											alt=""
-										/> */}
+										/> *//*}
                 <BlogsImg theme={theme} />
               </div>
             </div>
@@ -91,8 +91,8 @@ class Contact extends Component {
                 {/* <img
 											src={require(`../../assets/images/${addressSection["avatar_image_path"]}`)}
 											alt=""
-										/> */}
-                <AddressImg theme={theme} />
+										/> *///}
+                /*<AddressImg theme={theme} />
               </div>
               <div className="address-heading-text-div">
                 <h1
@@ -138,4 +138,21 @@ class Contact extends Component {
   }
 }
 
-export default Contact;
+export default Contact;*/
+
+// contact_component.js
+import React from 'react';
+import './ContactComponent.css';
+
+const ContactComponent = ({ name, role, contribution }) => {
+    return (
+        <div className="contact-card">
+            <h3>{name}</h3>
+            <p><strong>Role:</strong> {role}</p>
+            <p><strong>Contribution:</strong> {contribution}</p>
+        </div>
+    );
+};
+
+export default ContactComponent;
+
