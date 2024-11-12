@@ -681,7 +681,7 @@ description:
 }*/
 // portfolio.js
 import React from 'react';
-import ContactComponent from './contact/ContactComponent';
+import ContactComponent from './pages/contact/ContactComponent';
 
 const contactPageData = {
     title: "Contact Page",
