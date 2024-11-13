@@ -65,9 +65,9 @@ const skills = {
    competitiveSites: [
      {
        siteName: "LeetCode",
-       iconifyClassname: "simple-icons:leetcode",
-       style: {
-         color: "#F79F1B",
+       // iconifyClassname: "simple-icons:leetcode",
+       // style: {
+       //   color: "#F79F1B",
        },
        profileLink: "https://leetcode.com/layman_brother/",
      },
