@@ -39,17 +39,17 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "j",
-      fileName: "DataScienceImg",
+      title: "Leaderboard:",
+      fileName: "DesignImg",
       skills: [
-        "⚡ gantry system",
-        "⚡ servo motors",
-        "⚡ pulley system",
+        "⚡⚡⚡ first place",
+        "⚡⚡ second place",
+        "⚡ third place",
       ],
       softwareSkills: [
         {
-          skillName: "gears",
-          fontAwesomeClassname: "fa:gears",
+          skillName: "leaderboard",
+          fontAwesomeClassname: "fa:material-symbols:social-leaderboard-outline",
           style: {
             backgroundColor: "transparent",
             color: "#D00000",
