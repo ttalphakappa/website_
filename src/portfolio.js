@@ -265,7 +265,7 @@ const certifications = {
    subtitle: "the progress of our engineering project",
    description:
      "10/20 - 11/13",
-     header_image_path: "/assets/images/wireboard.png",
+     header_image_path: "./wireboard.png",
    sections: [
      {
        title: "Week 1: 10/20 - 10/27",
@@ -273,7 +273,7 @@ const certifications = {
        experiences: [
          {
            title: "10/20 - 10/23",
-           logo_path: "wireboard.png",
+           logo_path: "Unknown.png",
            description:
              "Brainstormed potential ideas. Bought materials from Amazon and Home Depot. Created CAD designs for all parts",
            color: "#000000",
