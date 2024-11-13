@@ -374,6 +374,14 @@ description:
 "Meet the team behind Lily Pad Plunge!",
  avatar_image_path: "images/baovi.PNG",
 };
+
+const publicationsHeader = {
+  title: "Publications",
+  description: "Some of my published Articles, Blogs and Research.",
+  avatar_image_path: "projects_image.svg",
+};
+
+
  // mechanics page
 const contactPageData = {
   contactSection: {
