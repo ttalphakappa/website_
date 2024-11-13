@@ -410,7 +410,7 @@ description:
 const contactPageData = {
   contactSection: {
     title: "The Gantry System",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "stanford_logo.png",
     description:
       "the gantry system..........",
   },
