@@ -642,28 +642,28 @@ description:
  // mechanics page
 const contactPageData = {
   contactSection: {
-    title: "Mechanics",
+    title: "The Gantry System",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "We are a group of emerging engineers who are passionate about many different things and love to be creative!",
+      "the gantry system..........",
   },
   blogSection: {
-    title: "Blogs",
+    title: "Servo Motors",
     subtitle:
-      "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://blogs.ashutoshhathidara.com/",
+      "servo motors.......",
+    //link: "https://blogs.ashutoshhathidara.com/",
     avatar_image_path: "blogs_image.svg"
   },
   addressSection: {
-    title: "Address",
-    subtitle: "Saratoga Ave, San Jose, CA, USA 95129",
-    locality: "San Jose",
-    country: "USA",
-    region: "California",
-    postalCode: "95129",
-    streetAddress: "Saratoga Avenue",
+    title: "Pulley System",
+    subtitle: "the pulley system........",
+    //locality: "San Jose",
+    //country: "USA",
+    //region: "California",
+    //postalCode: "95129",
+    //streetAddress: "Saratoga Avenue",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
+    //location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
   },
   phoneSection: {
     title: "",
