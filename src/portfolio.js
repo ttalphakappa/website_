@@ -31,8 +31,8 @@ const socialMediaLinks = [
   {
     name: "Gmail",
     link: "mailto:ttalphakappa@gmail.com",
-    fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
-    backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
+    //fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
+   // backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
 ];
 
