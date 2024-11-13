@@ -50,9 +50,8 @@ export default function Greeting(props) {
 							alt="saad sitting on table"
 							src={require("../../assets/images/kevin.jpeg")}
 						></img> */}
-            <kevinImage theme={theme} />
+            <FeelingProud theme={theme} />
           </div>
-        </div>
       </div>
     </Fade>
   );
