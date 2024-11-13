@@ -120,5 +120,77 @@
         }
       ]
     }
+    {
+      "id": "new_project_7",
+      "name": "Project Seven",
+      "createdAt": "2024-11-12",
+      "url": "https://github.com/yourusername/project-seven",
+      "description": "Description of project seven.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+      "id": "new_project_8",
+      "name": "Project Seven",
+      "createdAt": "2024-11-12",
+      "url": "https://github.com/yourusername/project-seven",
+      "description": "Description of project seven.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+      "id": "new_project_9",
+      "name": "Project Seven",
+      "createdAt": "2024-11-12",
+      "url": "https://github.com/yourusername/project-seven",
+      "description": "Description of project seven.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+      "id": "new_project_10",
+      "name": "Project Seven",
+      "createdAt": "2024-11-12",
+      "url": "https://github.com/yourusername/project-seven",
+      "description": "Description of project seven.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+      "id": "new_project_11",
+      "name": "Project Seven",
+      "createdAt": "2024-11-12",
+      "url": "https://github.com/yourusername/project-seven",
+      "description": "Description of project seven.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+      "id": "new_project_12",
+      "name": "Project Seven",
+      "createdAt": "2024-11-12",
+      "url": "https://github.com/yourusername/project-seven",
+      "description": "Description of project seven.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
   ]
 }
