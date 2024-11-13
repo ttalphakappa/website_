@@ -373,7 +373,7 @@ const certifications = {
 const projectsHeader = {
 title: "About The Team",
 description:
-"Meet the team behind Lily Pad Plunge!",
+"Meet the team behind Lily Pad Plunge: a group of aspiring and like-minded engineers! Through innovation and collaboration, we were able to integrate our expertises in various fields to develop an enticing game experience.",
  avatar_image_path: "group.png",
 };
 
