@@ -454,7 +454,7 @@ const certifications = {
    subtitle: "the progress of our engineering project",
    description:
      "10/20 - 11/13",
-   header_image_path: "Gantry-Systems-Working-Outside-and-Envelope.jpg",
+   header_image_path: "wireboard.png",
    sections: [
      {
        title: "Week 1: 10/20 - 10/27",
@@ -639,10 +639,10 @@ description:
      },
    ],
  };
- // mechanical + electrical page
+ // mechanics page
 const contactPageData = {
   contactSection: {
-    title: "Mechanical + Electrical",
+    title: "Mechanics",
     profile_image_path: "animated_ashutosh.png",
     description:
       "We are a group of emerging engineers who are passionate about many different things and love to be creative!",
