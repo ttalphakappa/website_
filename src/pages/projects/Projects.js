@@ -25,12 +25,11 @@ class Projects extends Component {
         <div className="basic-projects">
           <Fade bottom duration={2000} distance="40px">
             <div className="projects-heading-div">
-              <div className="projects-heading-img-div"> { 
-	    <img
-	    src={require(`../../assets/images/${projectsHeader["avatar_image_path"]}`)
-  }
-	alt=""
-	/> }
+              <div className="projects-heading-img-div">
+                <img
+                  src={require(`../../assets/images/${projectsHeader["avatar_image_path"]}`).default}
+                  alt="" // Add an alt description for accessibility
+                />
                 <ProjectsImg theme={theme} />
               </div>
               <div className="projects-heading-text-div">
@@ -50,6 +49,10 @@ class Projects extends Component {
             </div>
           </Fade>
         </div>
+      </div>
+    );
+  }
+}
         <div className="repo-cards-div-main">
           {ProjectsData.data.map((repo) => {
             return <GithubRepoCard repo={repo} theme={theme} />;
