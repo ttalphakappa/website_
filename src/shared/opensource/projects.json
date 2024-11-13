@@ -13,10 +13,6 @@
           "iconifyClass": "logos-python"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
           "name": "Jupyter Notebook",
           "iconifyClass": "logos-jupyter"
         }
