@@ -239,6 +239,16 @@ const contactPageData = {
   },
 };
 
+const bigProjects = [
+  {
+    title: "Lily Pad Plunge",
+    description:
+      "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Inspired by a claw machine, our game will feature a frog that users can maneuver left and right, aiming to drop it onto moving lily pads.",
+    link: "https://lilypadplunge.netlify.app/home",
+    image: wireboardImage, // Example image import you've already done
+  },
+];
+
 export {
   settings,
   seo,
@@ -253,4 +263,5 @@ export {
   publicationsHeader,
   publications,
   contactPageData,
+  bigProjects,
 };
