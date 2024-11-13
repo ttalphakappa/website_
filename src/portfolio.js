@@ -27,14 +27,14 @@ const greeting = {
   githubProfile: "https://github.com/ttalphakappa",
 };
 
-/*const socialMediaLinks = [
+const socialMediaLinks = [
   {
     name: "Gmail",
     link: "mailto:ttalphakappa@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
-];*/
+];
 
 const skills = {
   data: [
@@ -436,7 +436,7 @@ const contactPageData = {
  settings,
  seo,
  greeting,
- //socialMediaLinks,
+ socialMediaLinks,
  skills,
  competitiveSites,
  degrees,
