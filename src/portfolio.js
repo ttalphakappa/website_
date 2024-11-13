@@ -152,7 +152,7 @@ const certifications = {
     {
       title: "Machine Learning",
       subtitle: "- Andrew Ng",
-      logo_path: "stanford_logo.png",
+      logo_path: "",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
       alt_name: "Stanford University",
