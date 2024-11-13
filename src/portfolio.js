@@ -2,7 +2,7 @@
 // Website related settings
 import wireboardImage from "./assets/images/wireboard.png"
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
