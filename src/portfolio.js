@@ -275,7 +275,7 @@ const certifications = {
        experiences: [
          {
            title: "10/20 - 10/23",
-           logo_path: "wireboard.png",
+           logo_path: "w1d1.png",
            description:
              "Brainstormed potential ideas. Bought materials from Amazon and Home Depot. Created CAD designs for all parts",
            color: "#000000",
