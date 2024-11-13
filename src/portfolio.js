@@ -12,7 +12,7 @@ const seo = {
   og: {
     title: "Lily Pad Plunge",
     type: "website",
-    url: "https://lilypadplunge.netlify.app/home",
+    url: "https://lilypadplunge.netlify.app/",
   },
 };
 
