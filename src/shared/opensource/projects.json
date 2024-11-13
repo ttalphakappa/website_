@@ -119,6 +119,28 @@
           "iconifyClass": "logos-css-3"
         }
       ]
-    }
+    },
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "Kevin Nie ",
+      "createdAt": "insert personal description here",
+      "url": "https://www.linkedin.com/in/kevin-nie-b99874286",
+      "description": "Project Lead, Lead Mechanical Engineer",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
   ]
 }
