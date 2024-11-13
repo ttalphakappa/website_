@@ -438,7 +438,7 @@ const contactPageData = {
  greeting,
  socialMediaLinks,
  skills,
- competitiveSites,
+// competitiveSites,
  degrees,
  certifications,
  experience,
