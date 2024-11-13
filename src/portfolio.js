@@ -1,6 +1,4 @@
 /* Change this file to get your personal Porfolio */
-import React from 'react';
-import ContactComponent from './pages/contact/ContactComponent';
 // Website related settings
 const settings = {
   isSplash: true, // Change this to false if you don't want Splash screen.
