@@ -375,12 +375,6 @@ description:
  avatar_image_path: "images/baovi.PNG",
 };
 
-const publicationsHeader = {
-  title: "Publications",
-  description: "Some of my published Articles, Blogs and Research.",
-  avatar_image_path: "projects_image.svg",
-};
-
 
  // mechanics page
 const contactPageData = {
@@ -419,7 +413,5 @@ const contactPageData = {
  certifications,
  experience,
  projectsHeader,
- publicationsHeader,
- publications,
  contactPageData,
 };
