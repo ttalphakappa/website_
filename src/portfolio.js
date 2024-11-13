@@ -1,6 +1,6 @@
 /* Change this file to get your personal Porfolio */
 // Website related settings
-import wireboardImage from "./assets/images/wireboard.png"
+import wireboardImage from "./assets/images/wireeboard.png"
 const settings = {
   isSplash: false, // Change this to false if you don't want Splash screen.
 };
@@ -267,7 +267,7 @@ const degrees = {
    subtitle: "the progress of our engineering project",
    description:
      "10/20 - 11/13",
-     header_image_path: "wireboard.png",
+     header_image_path: "wireeboard.png",
    sections: [
      {
        title: "Week 1: 10/20 - 10/27",
