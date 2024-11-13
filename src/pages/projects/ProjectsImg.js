@@ -5,11 +5,11 @@ export default class ProjectsImg extends Component {
     //const theme = this.props.theme; 
 
     return (
-      <img
+      //<img
         src="src/assets/images/group-photo.JPG" 
         alt="Description of the image" 
         style={{ width: "100%", height: "auto" }} 
-      />
+      ///>
     );
   }
 }
