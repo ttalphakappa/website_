@@ -26,11 +26,15 @@ class Projects extends Component {
           <Fade bottom duration={2000} distance="40px">
             <div className="projects-heading-div">
               <div className="projects-heading-img-div">
-                {/* <img
-											src={require(`../../assets/images/${projectsHeader["avatar_image_path"]}`)}
-											alt=""
-										/> */}
-                <ProjectsImg theme={theme} />
+                <img
+                  src={require(`../../assets/images/${projectsHeader["avatar_image_path"]}`)}
+                  alt="ak image"
+                  style={{
+                    width: "600px", // Adjust the size as needed
+                    height: "auto",
+                    borderRadius: "8px", // Adjust the border radius for rounded corners
+                  }}
+                />
               </div>
               <div className="projects-heading-text-div">
                 <h1

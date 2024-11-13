@@ -1,13 +1,14 @@
 /* Change this file to get your personal Porfolio */
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
 const seo = {
   title: "Lily Pad Plunge",
-  description: "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Inspired by a claw machine, our game will feature a frog that users can maneuver left and right, aiming to drop it onto moving lily pads.",
+  description:
+    "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Inspired by a claw machine, our game will feature a frog that users can maneuver left and right, aiming to drop it onto moving lily pads.",
   og: {
     title: "Lily Pad Plunge",
     type: "website",
@@ -20,7 +21,8 @@ const greeting = {
   title: "Lily Pad Plunge",
   logo_name: "AlphaKappas",
   nickname: "THE ALPHA KAPPA CLASS",
-  subTitle: "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Featuring a frog that users can maneuver, aiming to drop it onto moving lily pads.",
+  subTitle:
+    "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Featuring a frog that users can maneuver, aiming to drop it onto moving lily pads.",
   resumeLink:
     "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
   portfolio_repository: "https://github.com/ttalphakappa/website_/tree/main",
@@ -32,7 +34,7 @@ const socialMediaLinks = [
     name: "Gmail",
     link: "mailto:ttalphakappa@gmail.com",
     //fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
-   // backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
+    // backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
 ];
 
@@ -41,78 +43,75 @@ const skills = {
     {
       title: "Leaderboard:",
       fileName: "game",
-      skills: [
-        "⚡⚡⚡ first place",
-        "⚡⚡ second place",
-        "⚡ third place",
-      ],
+      skills: ["⚡⚡⚡ first place", "⚡⚡ second place", "⚡ third place"],
       softwareSkills: [
         {
           skillName: "leaderboard",
-          fontAwesomeClassname: "fa:material-symbols:social-leaderboard-outline",
+          fontAwesomeClassname:
+            "fa:material-symbols:social-leaderboard-outline",
           style: {
             backgroundColor: "transparent",
             color: "#D00000",
           },
         },
       ],
-   }
+    },
   ],
 };
 
 // Education Page
- const competitiveSites = {
-   competitiveSites: [
-     {
-       siteName: "LeetCode",
-       iconifyClassname: "simple-icons:leetcode",
-       style: {
-         color: "#F79F1B",
-       },
-       profileLink: "https://leetcode.com/layman_brother/",
-     },
-     {
-       siteName: "HackerRank",
-       iconifyClassname: "simple-icons:hackerrank",
-       style: {
-         color: "#2EC866",
-       },
-       profileLink: "https://www.hackerrank.com/layman_brother",
-     },
-     {
-       siteName: "Codechef",
-       iconifyClassname: "simple-icons:codechef",
-       style: {
-         color: "#5B4638",
-       },
-       profileLink: "https://www.codechef.com/users/ashutosh_1919",
-     },
-     {
-       siteName: "Codeforces",
-       iconifyClassname: "simple-icons:codeforces",
-       style: {
-         color: "#1F8ACB",
-       },
-       profileLink: "http://codeforces.com/profile/layman_brother",
-     },
-     {
-       siteName: "Hackerearth",
-       iconifyClassname: "simple-icons:hackerearth",
-       style: {
-         color: "#323754",
-       },
-       profileLink: "https://www.hackerearth.com/@ashutosh391",
-     },
-     {
-       siteName: "Kaggle",
-       iconifyClassname: "simple-icons:kaggle",
-       style: {
-         color: "#20BEFF",
-       },
-       profileLink: "https://www.kaggle.com/laymanbrother",
-     },
-   ],
- };
+const competitiveSites = {
+  competitiveSites: [
+    {
+      siteName: "LeetCode",
+      iconifyClassname: "simple-icons:leetcode",
+      style: {
+        color: "#F79F1B",
+      },
+      profileLink: "https://leetcode.com/layman_brother/",
+    },
+    {
+      siteName: "HackerRank",
+      iconifyClassname: "simple-icons:hackerrank",
+      style: {
+        color: "#2EC866",
+      },
+      profileLink: "https://www.hackerrank.com/layman_brother",
+    },
+    {
+      siteName: "Codechef",
+      iconifyClassname: "simple-icons:codechef",
+      style: {
+        color: "#5B4638",
+      },
+      profileLink: "https://www.codechef.com/users/ashutosh_1919",
+    },
+    {
+      siteName: "Codeforces",
+      iconifyClassname: "simple-icons:codeforces",
+      style: {
+        color: "#1F8ACB",
+      },
+      profileLink: "http://codeforces.com/profile/layman_brother",
+    },
+    {
+      siteName: "Hackerearth",
+      iconifyClassname: "simple-icons:hackerearth",
+      style: {
+        color: "#323754",
+      },
+      profileLink: "https://www.hackerearth.com/@ashutosh391",
+    },
+    {
+      siteName: "Kaggle",
+      iconifyClassname: "simple-icons:kaggle",
+      style: {
+        color: "#20BEFF",
+      },
+      profileLink: "https://www.kaggle.com/laymanbrother",
+    },
+  ],
+};
 
 const degrees = {
   degrees: [
@@ -258,87 +257,84 @@ const certifications = {
   ],
 };
 
-
- // Timeline Page
- const experience = {
-   title: "Timeline",
-   subtitle: "the progress of our engineering project",
-   description:
-     "10/20 - 11/13",
-     header_image_path: "wireboard.png",
-   sections: [
-     {
-       title: "Week 1: 10/20 - 10/27",
-       work: true,
-       experiences: [
-         {
-           title: "10/20 - 10/23",
-           logo_path: "wireboard.png",
-           description:
-             "Brainstormed potential ideas. Bought materials from Amazon and Home Depot. Created CAD designs for all parts",
-           color: "#000000",
-         },
-         {
-           title: "10/24 - 10/27",
-           logo_path: "legato_logo.png",
-           description:"Laser cut the wood and printed on our name",
-           color: "#0879bf",
-         },
-       ],
-     },
-     {
-       title: "Week 2: 10/28 - 11/02",
-       experiences: [
-         {
-           title: "10/28",
-           logo_path: "tiktok_logo.png",
-           description:
-             "Built the skeleton for the machine by super glueing the pieces together. Cut dividers and slits. Made pseudo code for game logic and moving.",
-           color: "#000000",
-         },
-         {
-           title: "10/29 - 10/31",
-           logo_path: "delhivery_logo.png",
-           description:
-             "Tested DC motors and was able to make it turn properly. Implemented buttons to Arduino. Started the conveyer belt.",
-           color: "#ee3c26",
-         },
-         {
-           title: "11/01 - 11/02",
-           logo_path: "intel_logo.jpg",
-           description:
-             "Mapped out website. Started learning how to use HTML, CSS, Javascript and Git.",
-           color: "#0071C5",
-         },
-       ],
-     },
-     {
-       title: "Week 3: 11/03 - 11/07",
-       experiences: [
-         {
-           title: "11/03 - 11/04",
-           logo_path: "google_logo.png",
-           description:
-             "Programmed the Arduino. Tested the DC motor with the gantry system, but it was too weak + switched to servo motors.",
-           color: "#4285F4",
-         },
-         {
-           title: "11/05",
-           logo_path: "microsoft_logo.png",
-           description:
-             "Began designing the website and distributed which parts every member can do.",
-           color: "#D83B01",
-         },
-         {
-           title: "11/06 - 11/07",
-           logo_path: "mozilla_logo.png",
-           description:
-             "Finalized code for Arduino. Connected wheels to axel. ",
-           color: "#000000",
-         },
-       ],
-     },
-     {
+// Timeline Page
+const experience = {
+  title: "Timeline",
+  subtitle: "the progress of our engineering project",
+  description: "10/20 - 11/13",
+  header_image_path: "wireboard.png",
+  sections: [
+    {
+      title: "Week 1: 10/20 - 10/27",
+      work: true,
+      experiences: [
+        {
+          title: "10/20 - 10/23",
+          logo_path: "wireboard.png",
+          description:
+            "Brainstormed potential ideas. Bought materials from Amazon and Home Depot. Created CAD designs for all parts",
+          color: "#000000",
+        },
+        {
+          title: "10/24 - 10/27",
+          logo_path: "legato_logo.png",
+          description: "Laser cut the wood and printed on our name",
+          color: "#0879bf",
+        },
+      ],
+    },
+    {
+      title: "Week 2: 10/28 - 11/02",
+      experiences: [
+        {
+          title: "10/28",
+          logo_path: "tiktok_logo.png",
+          description:
+            "Built the skeleton for the machine by super glueing the pieces together. Cut dividers and slits. Made pseudo code for game logic and moving.",
+          color: "#000000",
+        },
+        {
+          title: "10/29 - 10/31",
+          logo_path: "delhivery_logo.png",
+          description:
+            "Tested DC motors and was able to make it turn properly. Implemented buttons to Arduino. Started the conveyer belt.",
+          color: "#ee3c26",
+        },
+        {
+          title: "11/01 - 11/02",
+          logo_path: "intel_logo.jpg",
+          description:
+            "Mapped out website. Started learning how to use HTML, CSS, Javascript and Git.",
+          color: "#0071C5",
+        },
+      ],
+    },
+    {
+      title: "Week 3: 11/03 - 11/07",
+      experiences: [
+        {
+          title: "11/03 - 11/04",
+          logo_path: "google_logo.png",
+          description:
+            "Programmed the Arduino. Tested the DC motor with the gantry system, but it was too weak + switched to servo motors.",
+          color: "#4285F4",
+        },
+        {
+          title: "11/05",
+          logo_path: "microsoft_logo.png",
+          description:
+            "Began designing the website and distributed which parts every member can do.",
+          color: "#D83B01",
+        },
+        {
+          title: "11/06 - 11/07",
+          logo_path: "mozilla_logo.png",
+          description: "Finalized code for Arduino. Connected wheels to axel. ",
+          color: "#000000",
+        },
+      ],
+    },
+    {
       title: "Week 4: 11/08 - 11/13",
       experiences: [
         {
@@ -358,69 +354,64 @@ const certifications = {
         {
           title: "11/12 - 11/13",
           logo_path: "mozilla_logo.png",
-          description:
-            "Added all pictures of parts. Finished the website.",
+          description: "Added all pictures of parts. Finished the website.",
           color: "#000000",
         },
       ],
     },
-   ],
- };
+  ],
+};
 
 // about the team page
 const projectsHeader = {
-title: "About The Team",
-description:
-"Meet the team behind Lily Pad Plunge!",
- avatar_image_path: "images/baovi.PNG",
+  title: "About The Team",
+  description: "Meet the team behind Lily Pad Plunge!",
+  avatar_image_path: "akpic.JPG",
 };
 
 const publicationsHeader = {
-   title: "Publications",
-   description: "Some of my published Articles, Blogs and Research.",
-   avatar_image_path: "projects_image.svg",
- };
+  title: "Publications",
+  description: "Some of my published Articles, Blogs and Research.",
+  avatar_image_path: "projects_image.svg",
+};
 
- const publications = {
-   data: [
-     {
-       id: "neuro-symbolic-sudoku-solver",
-       name: "Neuro-Symbolic Sudoku Solver",
-       createdAt: "2023-07-02T00:00:00Z",
-       description: "Paper published in KDD KiML 2023",
-       url: "https://arxiv.org/abs/2307.00653",
-     },
-     {
-       id: "mdp-diffusion",
-       name: "MDP-Diffusion",
-       createdAt: "2023-09-19T00:00:00Z",
-       description: "Blog published in Paperspace",
-       url: "https://blog.paperspace.com/mdp-diffusion/",
-     },
-     {
-       id: "consistency-models",
-       name: "Consistency Models",
-       createdAt: "2023-10-12T00:00:00Z",
-       description: "Blog published in Paperspace",
-       url: "https://blog.paperspace.com/consistency-models/",
-     },
-   ],
- };
+const publications = {
+  data: [
+    {
+      id: "neuro-symbolic-sudoku-solver",
+      name: "Neuro-Symbolic Sudoku Solver",
+      createdAt: "2023-07-02T00:00:00Z",
+      description: "Paper published in KDD KiML 2023",
+      url: "https://arxiv.org/abs/2307.00653",
+    },
+    {
+      id: "mdp-diffusion",
+      name: "MDP-Diffusion",
+      createdAt: "2023-09-19T00:00:00Z",
+      description: "Blog published in Paperspace",
+      url: "https://blog.paperspace.com/mdp-diffusion/",
+    },
+    {
+      id: "consistency-models",
+      name: "Consistency Models",
+      createdAt: "2023-10-12T00:00:00Z",
+      description: "Blog published in Paperspace",
+      url: "https://blog.paperspace.com/consistency-models/",
+    },
+  ],
+};
 
-
- // mechanics page
+// mechanics page
 const contactPageData = {
   contactSection: {
     title: "The Gantry System",
     profile_image_path: "gantry-system.png",
-    description:
-      "the gantry system..........",
+    description: "the gantry system..........",
   },
   blogSection: {
     title: "Servo Motors",
-    subtitle:
-      "servo motors.......",
-    avatar_image_path: "blogs_image.svg"
+    subtitle: "servo motors.......",
+    avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Pulley System",
@@ -431,21 +422,20 @@ const contactPageData = {
     title: "",
     subtitle: "",
   },
-}
+};
 
-
- export {
- settings,
- seo,
- greeting,
- socialMediaLinks,
- skills,
- competitiveSites,
- degrees,
- certifications,
- experience,
- projectsHeader,
- publicationsHeader,
- publications,
- contactPageData,
+export {
+  settings,
+  seo,
+  greeting,
+  socialMediaLinks,
+  skills,
+  competitiveSites,
+  degrees,
+  certifications,
+  experience,
+  projectsHeader,
+  publicationsHeader,
+  publications,
+  contactPageData,
 };
