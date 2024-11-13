@@ -29,6 +29,10 @@ class Contact extends Component {
                   src={require(`../../assets/images/${ContactData["profile_image_path"]}`)}
                   alt=""
                 />
+                <img
+                  src={require(`../../assets/images/${ContactData["profile_image_path2"]}`)}
+                  alt=""
+                />
               </div>
               <div className="contact-heading-text-div">
                 <h1
@@ -87,7 +91,12 @@ class Contact extends Component {
             <div className="address-heading-div">
               <div className="contact-heading-img-div">
                 {/* Uncomment the line below to use a local image */}
-                {/* <img src={require(`../../assets/images/${addressSection["avatar_image_path"]}`)} alt="" /> */}
+                {
+                  <img
+                    src={require(`../../assets/images/${addressSection["avatar_image_path"]}`)}
+                    alt=""
+                  />
+                }
                 <AddressImg theme={theme} />
               </div>
               <div className="address-heading-text-div">
