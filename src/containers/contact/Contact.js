@@ -31,7 +31,7 @@ export default function Contact() {
         <div className="contact-image-div">
           <img
             alt="Saad Working"
-            src={require("../../assets/images/contactMail.png")}
+            src={require("../../assets/images/gantry-system.png")}
           ></img>
         </div>
       </div>
