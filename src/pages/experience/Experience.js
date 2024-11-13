@@ -13,7 +13,7 @@ import ExperienceImg from "./ExperienceImg";
 // 	subtitle: "Work, Internship and Volunteership",
 // 	description:
 // 		"I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
-// 	header_image_path: "experience.svg",
+// 	header_image_path: "wireboard.png",
 // 	sections: [
 // 		{
 // 			title: "Work",
@@ -154,11 +154,11 @@ class Experience extends Component {
           <Fade bottom duration={2000} distance="40px">
             <div className="experience-heading-div">
               <div className="experience-heading-img-div">
-                {/* <img
+                { <img
 									src={require(`../../assets/images/${experience["header_image_path"]}`)}
 									alt=""
-								/> */}
-                <ExperienceImg theme={theme} />
+								/>}
+               
               </div>
               <div className="experience-heading-text-div">
                 <h1

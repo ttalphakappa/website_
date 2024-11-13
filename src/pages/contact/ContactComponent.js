@@ -78,7 +78,7 @@ class Contact extends Component {
               </div>
               <div className="blog-heading-img-div">
                 {/* Uncomment the line below to use a local image */}
-                {/* <img src={require(`../../assets/images/${blogSection["src/assets/images/group-photo.JPG"]}`)} alt="" />*/}
+                {<img src={require(`../../assets/images/${blogSection["src/assets/images/group-photo.JPG"]}`)} alt="" />}
                 <BlogsImg theme={theme} />
               </div>
             </div>
@@ -87,7 +87,7 @@ class Contact extends Component {
             <div className="address-heading-div">
               <div className="contact-heading-img-div">
                 {/* Uncomment the line below to use a local image */}
-                {/* <img src={require(`../../assets/images/${addressSection["avatar_image_path"]}`)} alt="" /> */}
+                {<img src={require(`../../assets/images/${addressSection["avatar_image_path"]}`)} alt="" />}
                 <AddressImg theme={theme} />
               </div>
               <div className="address-heading-text-div">

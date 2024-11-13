@@ -1,5 +1,6 @@
 /* Change this file to get your personal Porfolio */
 // Website related settings
+import wireboardImage from "./assets/images/wireboard.png"
 const settings = {
   isSplash: true, // Change this to false if you don't want Splash screen.
 };
@@ -7,7 +8,7 @@ const settings = {
 //SEO Related settings
 const seo = {
   title: "Lily Pad Plunge",
-  description: "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Inspired by a claw machine, our game will feature a frog that users can maneuver left and right, aiming to drop it onto moving lily pads.",
+  description: "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Inspired by a claw machine, our game will feature a frog that users can maneuver left and right, aiming to drop it onto moving lily pads",
   og: {
     title: "Lily Pad Plunge",
     type: "website",
@@ -17,10 +18,10 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Lily Pad Plunge",
+  title: "The Alpha Kappas",
   logo_name: "AlphaKappas",
-  nickname: "THE ALPHA KAPPA CLASS",
-  subTitle: "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Featuring a frog that users can maneuver, aiming to drop it onto moving lily pads.",
+  nickname: "BY: THE ALPHA KAPPA PLEDGE CLASS",
+  subTitle: "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Featuring a frog that users can maneuver, aiming to drop it onto moving lily pads",
   resumeLink:
     "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
   portfolio_repository: "https://github.com/ttalphakappa/website_/tree/main",
@@ -40,7 +41,7 @@ const skills = {
   data: [
     {
       title: "Leaderboard:",
-      fileName: "game",
+      fileName: "DesignImg",
       skills: [
         "⚡⚡⚡ first place",
         "⚡⚡ second place",
@@ -61,58 +62,58 @@ const skills = {
 };
 
 // Education Page
- const competitiveSites = {
-   competitiveSites: [
-     {
-       siteName: "LeetCode",
-       iconifyClassname: "simple-icons:leetcode",
-       style: {
-         color: "#F79F1B",
-       },
-       profileLink: "https://leetcode.com/layman_brother/",
-     },
-     {
-       siteName: "HackerRank",
-       iconifyClassname: "simple-icons:hackerrank",
-       style: {
-         color: "#2EC866",
-       },
-       profileLink: "https://www.hackerrank.com/layman_brother",
-     },
-     {
-       siteName: "Codechef",
-       iconifyClassname: "simple-icons:codechef",
-       style: {
-         color: "#5B4638",
-       },
-       profileLink: "https://www.codechef.com/users/ashutosh_1919",
-     },
-     {
-       siteName: "Codeforces",
-       iconifyClassname: "simple-icons:codeforces",
-       style: {
-         color: "#1F8ACB",
-       },
-       profileLink: "http://codeforces.com/profile/layman_brother",
-     },
-     {
-       siteName: "Hackerearth",
-       iconifyClassname: "simple-icons:hackerearth",
-       style: {
-         color: "#323754",
-       },
-       profileLink: "https://www.hackerearth.com/@ashutosh391",
-     },
-     {
-       siteName: "Kaggle",
-       iconifyClassname: "simple-icons:kaggle",
-       style: {
-         color: "#20BEFF",
-       },
-       profileLink: "https://www.kaggle.com/laymanbrother",
-     },
-   ],
- };
+const competitiveSites = {
+  competitiveSites: [
+    {
+      siteName: "LeetCode",
+      iconifyClassname: "simple-icons:leetcode",
+      style: {
+        color: "#F79F1B",
+      },
+      profileLink: "https://leetcode.com/layman_brother/",
+    },
+    {
+      siteName: "HackerRank",
+      iconifyClassname: "simple-icons:hackerrank",
+      style: {
+        color: "#2EC866",
+      },
+      profileLink: "https://www.hackerrank.com/layman_brother",
+    },
+    {
+      siteName: "Codechef",
+      iconifyClassname: "simple-icons:codechef",
+      style: {
+        color: "#5B4638",
+      },
+      profileLink: "https://www.codechef.com/users/ashutosh_1919",
+    },
+    {
+      siteName: "Codeforces",
+      iconifyClassname: "simple-icons:codeforces",
+      style: {
+        color: "#1F8ACB",
+      },
+      profileLink: "http://codeforces.com/profile/layman_brother",
+    },
+    {
+      siteName: "Hackerearth",
+      iconifyClassname: "simple-icons:hackerearth",
+      style: {
+        color: "#323754",
+      },
+      profileLink: "https://www.hackerearth.com/@ashutosh391",
+    },
+    {
+      siteName: "Kaggle",
+      iconifyClassname: "simple-icons:kaggle",
+      style: {
+        color: "#20BEFF",
+      },
+      profileLink: "https://www.kaggle.com/laymanbrother",
+    },
+  ],
+};
 
 const degrees = {
   degrees: [
@@ -265,7 +266,7 @@ const certifications = {
    subtitle: "the progress of our engineering project",
    description:
      "10/20 - 11/13",
-     header_image_path: "./wireboard.png",
+     header_image_path: "wireboard.png",
    sections: [
      {
        title: "Week 1: 10/20 - 10/27",
@@ -273,7 +274,7 @@ const certifications = {
        experiences: [
          {
            title: "10/20 - 10/23",
-           logo_path: "Unknown.png",
+           logo_path: "wireboard.png",
            description:
              "Brainstormed potential ideas. Bought materials from Amazon and Home Depot. Created CAD designs for all parts",
            color: "#000000",
@@ -372,13 +373,46 @@ const projectsHeader = {
 title: "About The Team",
 description:
 "Meet the team behind Lily Pad Plunge!",
- avatar_image_path: "images/baovi.PNG",
+ avatar_image_path: "group.png",
 };
+
+ const publicationsHeader = 
+ {
+   title: "Publications",
+   description: "Some of my published Articles, Blogs and Research.",
+   avatar_image_path: "group-photo.jpg",
+ };
+
+ const publications = {
+   data: [
+     {
+       id: "neuro-symbolic-sudoku-solver",
+       name: "Neuro-Symbolic Sudoku Solver",
+       createdAt: "2023-07-02T00:00:00Z",
+       description: "Paper published in KDD KiML 2023",
+       url: "https://arxiv.org/abs/2307.00653",
+     },
+     {
+       id: "mdp-diffusion",
+       name: "MDP-Diffusion",
+       createdAt: "2023-09-19T00:00:00Z",
+       description: "Blog published in Paperspace",
+       url: "https://blog.paperspace.com/mdp-diffusion/",
+     },
+     {
+       id: "consistency-models",
+       name: "Consistency Models",
+       createdAt: "2023-10-12T00:00:00Z",
+       description: "Blog published in Paperspace",
+       url: "https://blog.paperspace.com/consistency-models/",
+     },
+   ],
+ };
  // mechanics page
 const contactPageData = {
   contactSection: {
     title: "The Gantry System",
-    profile_image_path: "gantry-system.png",
+    profile_image_path: "animated_ashutosh.png",
     description:
       "the gantry system..........",
   },
