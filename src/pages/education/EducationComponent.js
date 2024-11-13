@@ -32,8 +32,7 @@ class Education extends Component {
                   Software
                 </h1>
                 <h3 className="heading-sub-text" style={{ color: theme.text }}>
-                  website
-		code
+                  website code
                 </h3>
                 <CompetitiveSites logos={competitiveSites.competitiveSites} />
               </div>
