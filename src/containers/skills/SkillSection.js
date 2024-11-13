@@ -16,7 +16,7 @@ import DesignImg from "./DesignImg";
   else if (props.fileName === "CloudInfraImg")
     return <CloudInfraImg theme={props.theme} />;
   return <DesignImg theme={props.theme} />;
-}
+}*/
 
 class SkillSection extends Component {
   render() {
@@ -28,10 +28,10 @@ class SkillSection extends Component {
             <div key={i} className="skills-main-div">
               <Fade left duration={2000}>
                 <div className="skills-image-div">
-                  {*//* <img
+                  {/* <img
                     alt="Ashutosh is Analysing Data"
                     src={require(`../../assets/images/${skill.imagePath}`)}
-                  ></img> *//*}
+                  ></img> */}
                   <GetSkillSvg fileName={skill.fileName} theme={theme} />
                 </div>
               </Fade>
