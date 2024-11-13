@@ -52,21 +52,20 @@ class Projects extends Component {
       </div>
     );
   }
-}
-        <div className="repo-cards-div-main">
-          {ProjectsData.data.map((repo) => {
-            return <GithubRepoCard repo={repo} theme={theme} />;
-          })}
-        </div>
-      <>
-        <Button
-          text={"More Projects"}
-          className="project-button"
-          href={greeting.githubProfile}
-          newTab={true}
-          theme={theme}
-        />
-      </>
+}<>
+  <div className="repo-cards-div-main">
+    {ProjectsData.data.map((repo) => {
+      return <GithubRepoCard repo={repo} theme={theme} />;
+    })}
+  </div>
+  <Button
+    text={"More Projects"}
+    className="project-button"
+    href={greeting.githubProfile}
+    newTab={true}
+    theme={theme}
+  />
+</>
 
         {/* Publications  */}
 
