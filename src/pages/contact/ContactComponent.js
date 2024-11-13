@@ -78,7 +78,7 @@ class Contact extends Component {
               </div>
               <div className="blog-heading-img-div">
                 {/* Uncomment the line below to use a local image */}
-                {/* <img src={require(`../../assets/images/${blogSection["avatar_image_path"]}`)} alt="" /> */}
+                { <img src={require(`../../assets/images/${blogSection["src/assets/images/group-photo.JPG"]}`)} alt="" />}
                 <BlogsImg theme={theme} />
               </div>
             </div>
