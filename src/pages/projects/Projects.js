@@ -53,11 +53,29 @@ class Projects extends Component {
             return <GithubRepoCard repo={repo} theme={theme} />;
           })}
         </div>
-        
+
+	<div className="profile-cards-div-main">
+	  {ProjectsData.data.map((profile) => (
+	    <div className="profile-card" key={profile.id}>
+	      {profile.photo && (
+	        <img
+	          src={require(`../../${profile.photo}`)}
+	          alt={profile.name}
+	          className="profile-photo"
+	        />
+	      )}
+	      <h2 style={{ color: theme.text }}>{profile.name}</h2>
+	      <p style={{ color: theme.secondaryText }}>{profile.description}</p>
+	      <a href={profile.url} target="_blank" rel="noopener noreferrer">
+	        LinkedIn
+	      </a>
+	    </div>
+	  ))}
+	</div>
 
         <div className="repo-cards-div-main">
           {publications.data.map((pub) => {
-            return <PublicationCard pub={pub} theme={theme} />;
+            return <PublicationCard pub={pub} theme={theme} key={pub.id}/>;
           })}
         </div>
 
