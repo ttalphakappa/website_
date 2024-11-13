@@ -451,7 +451,7 @@ const certifications = {
  // Timeline Page
  const experience = {
    title: "Timeline",
-   subtitle: "the timeline of our engineering project",
+   subtitle: "the progress of our engineering project",
    description:
      "10/20 - 11/13",
    header_image_path: "Gantry-Systems-Working-Outside-and-Envelope.jpg",
@@ -592,7 +592,7 @@ const certifications = {
           //duration: "Oct 2019 - May 2020",
           //location: "Kurnool, Andhra Pradesh",
           description:
-            "Added all pictures of parts and finished the website.",
+            "Added all pictures of parts. Finished the website.",
           color: "#000000",
         },
       ],
