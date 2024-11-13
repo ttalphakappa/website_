@@ -1,6 +1,5 @@
 /* Change this file to get your personal Porfolio */
 // Website related settings
-import wireboardImage from "./assets/images/wireeboard.png";
 const settings = {
   isSplash: false, // Change this to false if you don't want Splash screen.
 };
@@ -9,7 +8,7 @@ const settings = {
 const seo = {
   title: "Lily Pad Plunge",
   description:
-    "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Inspired by a claw machine, our game will feature a frog that users can maneuver left and right, aiming to drop it onto moving lily pads",
+    "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Inspired by a claw machine, our game will feature a frog that users can maneuver left and right, aiming to drop it onto moving lily pads.",
   og: {
     title: "Lily Pad Plunge",
     type: "website",
@@ -21,9 +20,9 @@ const seo = {
 const greeting = {
   title: "Lily Pad Plunge",
   logo_name: "AlphaKappas",
-  nickname: "By The Alpha Kappas",
+  nickname: "THE ALPHA KAPPA CLASS",
   subTitle:
-    "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Inspired by a claw machine, our game will feature a frog that users can maneuver left and right, aiming to drop it onto moving lily pads!",
+    "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Featuring a frog that users can maneuver, aiming to drop it onto moving lily pads.",
   resumeLink:
     "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
   portfolio_repository: "https://github.com/ttalphakappa/website_/tree/main",
@@ -43,7 +42,7 @@ const skills = {
   data: [
     {
       title: "Leaderboard:",
-      filePath: "src/containers/skills/IMG_2027 2.png",
+      fileName: "game",
       skills: ["⚡⚡⚡ first place", "⚡⚡ second place", "⚡ third place"],
       softwareSkills: [
         {
@@ -60,7 +59,7 @@ const skills = {
   ],
 };
 
-// Software Page
+// Education Page
 const competitiveSites = {
   competitiveSites: [
     /**{
@@ -111,36 +110,43 @@ const competitiveSites = {
       },
       profileLink: "https://www.kaggle.com/laymanbrother",
     },**/
-
   ],
 };
 
 const degrees = {
   degrees: [
     {
-      title: "Software",
+      title: "Indian Institute of Information Technology Kurnool",
       subtitle: "B.Tech. in Computer Engineering",
+      logo_path: "iiitk_logo.png",
       alt_name: "IIITDM Kurnool",
-      descriptions: ["⚡ ", "⚡ ", "⚡ "],
+      duration: "2016 - 2020",
+      descriptions: [
+        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
+        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
+        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+      ],
+      website_link: "http://iiitk.ac.in",
     },
     {
-      title: "Electrical",
-      subtitle: "Servo, Arduino, Buttons, LCD Screen",
+      title: "Indiana University Bloomington",
+      subtitle: "M.S. in Computer Science",
+      logo_path: "iu_logo.png",
       alt_name: "Indiana University Bloomington",
+      duration: "2021 - 2023",
       descriptions: [
-        "⚡ Arduino - processes inputs from buttons and controls the servos and LCD display. It executes the programmed logic to manage game functions while coordinating communication between the various components.",
-        "⚡ Servos - draw a significant amount of current, so we have included two battery packs to ensure a stable power supply. Two of the servos are responsible for maneuvering the gantry system, one servo is used to raise and lower the frog, and another servo controls the movement of the lily pads.",
-        "⚡ ",
-        "⚡ ",
+        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
+        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
+        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
       ],
-      // website_link: "https://www.indiana.edu/",
+      website_link: "https://www.indiana.edu/",
     },
   ],
 };
 
 const certifications = {
   certifications: [
-    /*{
+    {
       title: "Machine Learning",
       subtitle: "- Andrew Ng",
       logo_path: "stanford_logo.png",
@@ -247,7 +253,7 @@ const certifications = {
         "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
       alt_name: "GCP",
       color_code: "#4285F499",
-    },*/
+    },
   ],
 };
 
@@ -256,7 +262,7 @@ const experience = {
   title: "Timeline",
   subtitle: "the progress of our engineering project",
   description: "10/20 - 11/13",
-  header_image_path: "wireeboard.png",
+  header_image_path: "wireboard.png",
   sections: [
     {
       title: "Week 1: 10/20 - 10/27",
@@ -264,14 +270,14 @@ const experience = {
       experiences: [
         {
           title: "10/20 - 10/23",
-          logo_path: "wdd.png",
+          logo_path: "wireboard.png",
           description:
             "Brainstormed potential ideas. Bought materials from Amazon and Home Depot. Created CAD designs for all parts",
           color: "#000000",
         },
         {
           title: "10/24 - 10/27",
-          logo_path: "laser.png",
+          logo_path: "legato_logo.png",
           description: "Laser cut the wood and printed on our name",
           color: "#0879bf",
         },
@@ -340,7 +346,7 @@ const experience = {
         },
         {
           title: "11/10 - 11/11",
-          logo_path: "paint.png",
+          logo_path: "microsoft_logo.png",
           description:
             "Finished painting wood. Added pictures of frogs and lily pads to match with the game.",
           color: "#D83B01",
@@ -359,26 +365,48 @@ const experience = {
 // about the team page
 const projectsHeader = {
   title: "About The Team",
-  description:
-    "Meet the team behind Lily Pad Plunge: a group of aspiring and like-minded engineers! Through innovation and collaboration, we were able to integrate our expertises in various fields to develop an enticing game experience.",
-  avatar_image_path: "group.png",
+  description: "Meet the team behind Lily Pad Plunge!",
+  avatar_image_path: "images/baovi.PNG",
 };
 
 const publicationsHeader = {
   title: "Publications",
   description: "Some of my published Articles, Blogs and Research.",
-  avatar_image_path: "group-photo.jpg",
+  avatar_image_path: "projects_image.svg",
 };
 
 const publications = {
-  data: [],
+  data: [
+    {
+      id: "neuro-symbolic-sudoku-solver",
+      name: "Neuro-Symbolic Sudoku Solver",
+      createdAt: "2023-07-02T00:00:00Z",
+      description: "Paper published in KDD KiML 2023",
+      url: "https://arxiv.org/abs/2307.00653",
+    },
+    {
+      id: "mdp-diffusion",
+      name: "MDP-Diffusion",
+      createdAt: "2023-09-19T00:00:00Z",
+      description: "Blog published in Paperspace",
+      url: "https://blog.paperspace.com/mdp-diffusion/",
+    },
+    {
+      id: "consistency-models",
+      name: "Consistency Models",
+      createdAt: "2023-10-12T00:00:00Z",
+      description: "Blog published in Paperspace",
+      url: "https://blog.paperspace.com/consistency-models/",
+    },
+  ],
 };
+
 // mechanics page
 const contactPageData = {
   contactSection: {
     title: "The Gantry System",
     profile_image_path: "gantry.jpg",
-    //profile_image_path: "pin.jpg",
+    profile_image_path2: "pin.jpg",
     description:
       "The gantry system is made using a wheel and belt system. A 3D printed pin is placed within two rails which acts as a housing unit for the motor and pulley. Each rail is attached to its own belt allowing for movement along the x and y axis. Through this mechanism users are able to move the frog to their desired location and lower the frog to hopefully hit a moving lilypad.  ",
   },
@@ -398,16 +426,6 @@ const contactPageData = {
   },
 };
 
-const bigProjects = [
-  {
-    title: "Lily Pad Plunge",
-    description:
-      "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Inspired by a claw machine, our game will feature a frog that users can maneuver left and right, aiming to drop it onto moving lily pads.",
-    link: "https://lilypadplunge.netlify.app/home",
-    image: wireboardImage, // Example image import you've already done
-  },
-];
-
 export {
   settings,
   seo,
@@ -415,12 +433,11 @@ export {
   socialMediaLinks,
   skills,
   competitiveSites,
-  certifications,
   degrees,
+  certifications,
   experience,
   projectsHeader,
   publicationsHeader,
   publications,
   contactPageData,
-  bigProjects,
 };
