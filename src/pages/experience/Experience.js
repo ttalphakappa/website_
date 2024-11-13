@@ -158,7 +158,7 @@ class Experience extends Component {
   src={require(`../../assets/images/${experience["header_image_path"]}`)}
   alt=""
   style={{
-    width: "150px", // Adjust the size as needed
+    width: "300px", // Adjust the size as needed
     height: "auto", 
     borderRadius: "8px" // Adjust the border radius for rounded corners
   }}
