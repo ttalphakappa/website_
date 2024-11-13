@@ -30,7 +30,7 @@ const greeting = {
 const socialMediaLinks = [
   {
     name: "Gmail",
-    //link: "mailto:ttalphakappa@gmail.com",
+    link: "mailto:ttalphakappa@gmail.com",
     //fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
    // backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
@@ -39,7 +39,7 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Mechanics",
+      title: "",
       fileName: "DataScienceImg",
       skills: [
         "⚡ gantry system",
