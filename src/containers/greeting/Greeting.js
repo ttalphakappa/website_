@@ -5,6 +5,7 @@ import Button from "../../components/button/Button";
 import { greeting } from "../../portfolio";
 import { Fade } from "react-reveal";
 import FeelingProud from "./FeelingProud";
+import kevinImage from "../../assets/images/kevin.jpeg";
 
 export default function Greeting(props) {
   const theme = props.theme;
@@ -31,7 +32,7 @@ export default function Greeting(props) {
               <SocialMedia theme={theme} />
               <div className="portfolio-repo-btn-div">
                 <Button
-                  text="⭐ Star Me On Github"
+                  text="⭐Our Github Repository⭐"
                   newTab={true}
                   href={greeting.portfolio_repository}
                   theme={theme}
@@ -45,14 +46,14 @@ export default function Greeting(props) {
             </div>
           </div>
           <div className="greeting-image-div">
-            {/* <img
+             {/* <img
 							alt="saad sitting on table"
-							src={require("../../assets/images/feelingProud.svg")}
+							src={require("../../assets/images/kevin.jpeg")}
 						></img> */}
             <FeelingProud theme={theme} />
           </div>
-        </div>
-      </div>
+      	</div>	    
+       </div> 
     </Fade>
   );
 }

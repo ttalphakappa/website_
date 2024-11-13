@@ -1,10 +1,11 @@
 import React, { Component } from "react";
+import kevinImage from "../../assets/images/kevin.jpeg";
 
 class FeelingProud extends Component {
   render() {
     const theme = this.props.theme;
     return (
-      <svg
+      /*<svg
         id="b52d7e2d-d80f-4111-b6ed-d15502ee1edd"
         data-name="Layer 1"
         xmlns="http://www.w3.org/2000/svg"
@@ -346,7 +347,19 @@ class FeelingProud extends Component {
             fill={theme.imageHighlight}
           />
         </g>
-      </svg>
+      </svg>*/
+      <div style={{ textAlign: "center" }}>
+        <img
+          src={kevinImage}
+          alt="Kevin"
+          style={{
+            width: "100%",
+            maxWidth: "400px", // Adjust max width as needed
+            borderRadius: "10px", // Optional: add a border radius for styling
+            border: `2px solid ${theme.text}` // Optional: theme-based border color
+          }}
+        />
+      </div>
     );
   }
 }
