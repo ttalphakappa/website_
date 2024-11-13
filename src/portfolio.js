@@ -480,7 +480,7 @@ const certifications = {
            logo_path: "legato_logo.png",
            //duration: "June 2020 - Aug 2021",
            //location: "Hyderabad, Telangana",
-           description:"Build skeleton for machine. Cut dividers and slits. Made pseudo code for game logic and moving.",
+           description:"Built skeleton for machine. Cut dividers and slits. Made pseudo code for game logic and moving.",
            color: "#0879bf",
          },
        ],
@@ -490,22 +490,22 @@ const certifications = {
        experiences: [
          {
            title: "10/28 - 11/02",
-           company: "TikTok Inc.",
-           company_url: "https://www.tiktok.com/en/",
+           //company: "TikTok Inc.",
+           //company_url: "https://www.tiktok.com/en/",
            logo_path: "tiktok_logo.png",
-           duration: "May 2022 - Aug 2022",
-           location: "San Francisco, USA",
+           //duration: "May 2022 - Aug 2022",
+           //location: "San Francisco, USA",
            description:
              "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
            color: "#000000",
          },
          {
            title: "Data Science Research Intern",
-           company: "Delhivery Pvt. Ltd.",
-           company_url: "https://www.delhivery.com/",
+           //company: "Delhivery Pvt. Ltd.",
+           //company_url: "https://www.delhivery.com/",
            logo_path: "delhivery_logo.png",
-           duration: "May 2019 - Sept 2019",
-           location: "Gurgaon, Haryana",
+           //duration: "May 2019 - Sept 2019",
+           //location: "Gurgaon, Haryana",
            description:
              "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
            color: "#ee3c26",
@@ -525,7 +525,7 @@ const certifications = {
        ],
      },
      {
-       title: "11/03 - 11/07",
+       title: "Week 3: 11/03 - 11/07",
        experiences: [
          {
            title: "Google Explore ML Facilitator",
@@ -586,7 +586,7 @@ const certifications = {
        ],
      },
      {
-      title: "11/08 - 11/13",
+      title: "Week 4: 11/08 - 11/13",
       experiences: [
         {
           title: "Google Explore ML Facilitator",
