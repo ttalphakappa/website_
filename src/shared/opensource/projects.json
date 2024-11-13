@@ -8,14 +8,18 @@
       "description": "Project Lead",
       "isFork": false,
       "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        },
-        {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
-        }
+        
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "Porter Tien",
+      "createdAt": "Hi! I'm a first-year studying Energy Engineering. I'm a basketball, volleyball, piano, and guitar playing Cheezit lover with a future in Entrepreneurship. ",
+      "url": "https://www.linkedin.com/in/porter-tien/",
+      "description": "Project Lead",
+      "isFork": false,
+      "languages": [
+        
       ]
     },
     {
@@ -64,34 +68,19 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "Porter Tien",
-      "createdAt": "Hi! I'm a first-year studying Energy Engineering. I'm a basketball, volleyball, piano, and guitar playing Cheezit lover with a future in Entrepreneurship. ",
-      "url": "https://www.linkedin.com/in/porter-tien/",
-      "description": "Project Lead",
-      "isFork": false,
-      "languages": [
-        
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
       "name": "Tyler Jung",
-      "createdAt": "Hi nice to meet you! I am a 2nd year studying Physics and Data Science at UC Berkeley. I like playing the violin, skiing, sucking dick etc.",
+      "createdAt": "Nice to meet you, I'm a 2nd year studying Physics and Data Science at UC Berkeley! I like playing the violin, skiing, and football. Reach me at tylerjung@berkeley.edu!",
       "url": "https://www.linkedin.com/in/tyler-jung-b55a88267/",
       "description": "Software and Website Developer, Electrical Design and Assembly",
       "isFork": false,
       "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
         
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
       "name": "Megan Wong",
-      "createdAt": ".",
+      "createdAt": "megan megan megan",
       "url": "https://www.linkedin.com/in/meganewong/",
       "description": "Software and Website Developer, Mechanical Design and Assembly",
       "isFork": false,
@@ -135,7 +124,7 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
       "name": "Riley Easter",
-      "createdAt": "2024-11-12",
+      "createdAt": "Hello, I'm Riley! I'm a Physics major interested in nuclear engineering, algorithm development, and material science. Feel free to reach out to me!",
       "url": "https://www.linkedin.com/in/rileyeaster/",
       "description": "Electrical and Mechanical Design and Assembly, Website Developer",
       "isFork": false,
