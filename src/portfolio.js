@@ -371,7 +371,7 @@ const certifications = {
 const projectsHeader = {
 title: "About The Team",
 description:
-"Meet the team behind Lily Pad Plunge.",
+"Meet the team behind Lily Pad Plunge!",
  avatar_image_path: "group-photo.jpg",
 };
 
