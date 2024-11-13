@@ -605,7 +605,7 @@ const projectsHeader = {
 title: "About The Team",
 description:
 "Meet the team behind Lily Pad Plunge.",
- avatar_image_path: "projects_image.svg",
+ avatar_image_path: "group-photo.jpg",
 };
 
  const publicationsHeader = {
@@ -639,10 +639,10 @@ description:
      },
    ],
  };
- // Contact Page
+ // mechanical + electrical page
 const contactPageData = {
   contactSection: {
-    title: "ALPHA KAPPA PLEDGE CLASS",
+    title: "Mechanical + Electrical",
     profile_image_path: "animated_ashutosh.png",
     description:
       "We are a group of emerging engineers who are passionate about many different things and love to be creative!",
