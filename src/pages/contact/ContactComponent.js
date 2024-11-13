@@ -142,8 +142,6 @@ export default Contact;**/
 
 // contact_component.js
 import React from 'react';
-import Header from "../../components/header/Header";
-
 import './ContactComponent.css';
 
 const ContactComponent = ({ name, role, contribution }) => {
