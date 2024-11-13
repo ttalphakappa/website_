@@ -19,8 +19,17 @@ class Projects extends Component {
           <Fade bottom duration={2000} distance="40px">
             <div className="projects-heading-div">
               <div className="projects-heading-img-div">
+              <div className="projects-heading-img-div">
+                {projectsHeader.avatar_image_path && (
+                  <img 
+                    src={projectsHeader.avatar_image_path} // No need for require, just use the path directly
+                    alt="Team Avatar" 
+                  />
+                )}
+
                 <ProjectsImg theme={theme} />
               </div>
+
               <div className="projects-heading-text-div">
                 <h1
                   className="projects-heading-text"
