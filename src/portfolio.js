@@ -422,7 +422,6 @@ const contactPageData = {
  skills,
  competitiveSites,
  degrees,
- certifications,
  experience,
  projectsHeader,
  publicationsHeader,
