@@ -3,7 +3,7 @@
     {
       "id": "R_kgDOJWL0-g",
       "name": "Kevin Nie ",
-      "createdAt": "insert personal description here",
+      "createdAt": "Hi my name is Kevin! I am a 1st year studying Mechanical Engineering at UC Berkeley. I like dick!",
       "url": "https://www.linkedin.com/in/kevin-nie-b99874286",
       "description": "Project Lead",
       "isFork": false,
@@ -21,15 +21,12 @@
     {
       "id": "R_kgDOG_vYHA",
       "name": "Paul Tran",
-      "createdAt": "2022-03-13T20:41:33Z",
+      "createdAt": "What's up, I'm Paul! I am a 3rd year studying Mechanical Engineering. I love touching kids!",
       "url": "https://www.linkedin.com/in/paul-nk-tran/",
       "description": "Mechanical Engineering Lead",
       "isFork": false,
       "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
+        
       ]
     },
     {
@@ -40,22 +37,7 @@
       "description": "Software Engineering Lead",
       "isFork": false,
       "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
-        }
+        
       ]
     },
     {
@@ -66,22 +48,7 @@
       "description": "Website Co-Lead, Electrical Assembly",
       "isFork": false,
       "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
+        
       ]
     },
     {
@@ -92,34 +59,24 @@
       "description": "Website Co-Lead",
       "isFork": false,
       "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
+        
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
       "name": "Porter Tien",
-      "createdAt": "2021-01-01T08:31:51Z",
+      "createdAt": "Hi! I'm a first-year studying Energy Engineering. I'm a basketball, volleyball, piano, and guitar playing Cheezit lover with a future in Entrepreneurship. ",
       "url": "https://www.linkedin.com/in/porter-tien/",
-      "description": "Electrical Engineering Lead",
+      "description": "Project Lead",
       "isFork": false,
       "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        }
+        
       ]
     },
     {
-      "id": "new_project_7",
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
       "name": "Tyler Jung",
-      "createdAt": "Howdy, I'm Tyler! I'm a second year studying Physics and Data Science at UC Berkeley. I like skiing, playing violin, and eating. Reach me at tylerjung@berkeley.edu",
+      "createdAt": "Hi nice to meet you! I am a 2nd year studying Physics and Data Science at UC Berkeley. I like playing the violin, skiing, sucking dick etc.",
       "url": "https://www.linkedin.com/in/tyler-jung-b55a88267/",
       "description": "Software and Website Developer, Electrical Design and Assembly",
       "isFork": false,
@@ -128,76 +85,62 @@
           "name": "Python",
           "iconifyClass": "logos-python"
         }
+        
       ]
     },
     {
-      "id": "new_project_8",
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
       "name": "Megan Wong",
-      "createdAt": "2024-11-12",
+      "createdAt": ".",
       "url": "https://www.linkedin.com/in/meganewong/",
       "description": "Software and Website Developer, Mechanical Design and Assembly",
       "isFork": false,
       "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
+        
       ]
     },
     {
-      "id": "new_project_9",
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
       "name": "Baovi Nguyen",
       "createdAt": "2024-11-12",
       "url": "https://www.linkedin.com/in/baovi-nguyen-12a53132b/",
       "description": "Software and Website Developer",
       "isFork": false,
       "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
+        
       ]
     },
     {
-      "id": "new_project_10",
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
       "name": "Kassidy Brown",
       "createdAt": "2024-11-12",
       "url": "https://www.linkedin.com/in/kassidychinbrown/",
       "description": "Electrical and Mechanical Assembly, User Interface Design",
       "isFork": false,
       "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
+        
       ]
     },
     {
-      "id": "new_project_11",
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
       "name": "Tayler Nguyen",
       "createdAt": "2024-11-12",
       "url": "https://www.linkedin.com/in/taylerhn/",
       "description": "Electrical and Mechanical Design and Assembly, Software Developer",
       "isFork": false,
       "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
+        
       ]
     },
     {
-      "id": "new_project_12",
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
       "name": "Riley Easter",
       "createdAt": "2024-11-12",
       "url": "https://www.linkedin.com/in/rileyeaster/",
       "description": "Electrical and Mechanical Design and Assembly, Website Developer",
       "isFork": false,
       "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
+        
       ]
     }
   ]
