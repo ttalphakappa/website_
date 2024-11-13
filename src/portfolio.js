@@ -421,6 +421,7 @@ const contactPageData = {
  socialMediaLinks,
  skills,
  competitiveSites,
+ certifications,
  degrees,
  experience,
  projectsHeader,
