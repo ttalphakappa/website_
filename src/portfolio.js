@@ -255,8 +255,8 @@ const certifications = {
       certificate_link:
         "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
       alt_name: "GCP",
-      color_code: "#4285F499",*/
-    },
+      color_code: "#4285F499",
+    },*/
   ],
 };
 
