@@ -1,11 +1,11 @@
-{
+  {
   "data": [
     {
       "id": "R_kgDOJWL0-g",
       "name": "Kevin Nie ",
       "createdAt": "insert personal description here",
       "url": "https://www.linkedin.com/in/kevin-nie-b99874286",
-      "description": "Project Lead, Lead Mechanical Engineer",
+      "description": "Project Lead",
       "isFork": false,
       "languages": [
         {
@@ -24,10 +24,10 @@
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
+      "name": "Paul Tran",
       "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "url": "https://www.linkedin.com/in/paul-nk-tran/",
+      "description": "Mechanical Engineering Lead",
       "isFork": false,
       "languages": [
         {
@@ -38,10 +38,10 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
+      "name": "Jeannine Ruiz",
       "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "url": "https://www.linkedin.com/in/jeannineruiz/",
+      "description": "Software Engineering Lead",
       "isFork": false,
       "languages": [
         {
@@ -64,10 +64,10 @@
     },
     {
       "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
+      "name": "Shayna Tran",
       "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "url": "https://www.linkedin.com/in/transhayna/",
+      "description": "Website Co-Lead, Electrical Assembly",
       "isFork": false,
       "languages": [
         {
@@ -90,10 +90,10 @@
     },
     {
       "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
+      "name": "Shanta Joshi",
       "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "url": "https://www.linkedin.com/in/shantajoshi/",
+      "description": "Website Co-Lead",
       "isFork": false,
       "languages": [
         {
@@ -104,10 +104,10 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
+      "name": "Porter Tien",
       "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "url": "https://www.linkedin.com/in/porter-tien/",
+      "description": "Electrical Engineering Lead",
       "isFork": false,
       "languages": [
         {
@@ -122,11 +122,11 @@
     },
     {
       "id": "new_project_7",
-      "name": "Project Seven",
-      "createdAt": "2024-11-12",
-      "url": "https://github.com/yourusername/project-seven",
-      "description": "Description of project seven.",
-      "isFork": false,
+      "name": "Tyler Jung",
+      "createdAt": "Howdy, I'm Tyler! I'm a second year studying Physics and Data Science at UC Berkeley. I like skiing, playing violin, and eating. Reach me at tylerjung@berkeley.edu",
+      "url": "https://www.linkedin.com/in/tyler-jung-b55a88267/",
+      "description": "Software and Website Developer, Electrical Design and Assembly",
+      "isFork": true,
       "languages": [
         {
           "name": "Python",
@@ -136,10 +136,10 @@
     },
     {
       "id": "new_project_8",
-      "name": "Project Seven",
+      "name": "Megan Wong",
       "createdAt": "2024-11-12",
-      "url": "https://github.com/yourusername/project-seven",
-      "description": "Description of project seven.",
+      "url": "https://www.linkedin.com/in/meganewong/",
+      "description": "Software and Website Developer, Mechanical Design and Assembly",
       "isFork": false,
       "languages": [
         {
@@ -150,10 +150,10 @@
     },
     {
       "id": "new_project_9",
-      "name": "Project Seven",
+      "name": "Baovi Ngyuen",
       "createdAt": "2024-11-12",
-      "url": "https://github.com/yourusername/project-seven",
-      "description": "Description of project seven.",
+      "url": "https://www.linkedin.com/in/baovi-nguyen-12a53132b/",
+      "description": "Software and Website Developer",
       "isFork": false,
       "languages": [
         {
@@ -164,10 +164,10 @@
     },
     {
       "id": "new_project_10",
-      "name": "Project Seven",
+      "name": "Kassidy Brown",
       "createdAt": "2024-11-12",
-      "url": "https://github.com/yourusername/project-seven",
-      "description": "Description of project seven.",
+      "url": "https://www.linkedin.com/in/kassidychinbrown/",
+      "description": "Electrical and Mechanical Assembly, User Interface Design",
       "isFork": false,
       "languages": [
         {
@@ -178,10 +178,10 @@
     },
     {
       "id": "new_project_11",
-      "name": "Project Seven",
+      "name": "Tayler Ngyuen",
       "createdAt": "2024-11-12",
-      "url": "https://github.com/yourusername/project-seven",
-      "description": "Description of project seven.",
+      "url": "https://www.linkedin.com/in/taylerhn/",
+      "description": "Electrical and Mechanical Design and Assembly, Software Developer",
       "isFork": false,
       "languages": [
         {
@@ -192,10 +192,10 @@
     },
     {
       "id": "new_project_12",
-      "name": "Project Seven",
+      "name": "Riley Easter",
       "createdAt": "2024-11-12",
-      "url": "https://github.com/yourusername/project-seven",
-      "description": "Description of project seven.",
+      "url": "https://www.linkedin.com/in/rileyeaster/",
+      "description": "Electrical and Mechanical Design and Assembly, Website Developer",
       "isFork": false,
       "languages": [
         {

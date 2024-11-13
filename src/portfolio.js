@@ -39,17 +39,17 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "",
-      fileName: "DataScienceImg",
+      title: "Leaderboard:",
+      fileName: "DesignImg",
       skills: [
-        "⚡ gantry system",
-        "⚡ servo motors",
-        "⚡ pulley system",
+        "⚡⚡⚡ first place",
+        "⚡⚡ second place",
+        "⚡ third place",
       ],
       softwareSkills: [
         {
-          skillName: "gears",
-          fontAwesomeClassname: "fa:gears",
+          skillName: "leaderboard",
+          fontAwesomeClassname: "fa:material-symbols:social-leaderboard-outline",
           style: {
             backgroundColor: "transparent",
             color: "#D00000",
@@ -273,7 +273,7 @@ const certifications = {
        experiences: [
          {
            title: "10/20 - 10/23",
-           logo_path: "Unknown.png",
+           logo_path: "wireboard.png",
            description:
              "Brainstormed potential ideas. Bought materials from Amazon and Home Depot. Created CAD designs for all parts",
            color: "#000000",

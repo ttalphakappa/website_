@@ -32,16 +32,16 @@ class Education extends Component {
                   Software
                 </h1>
                 <h3 className="heading-sub-text" style={{ color: theme.text }}>
-                  hallo
+                  dflsdnfldldldl
                 </h3>
                 <CompetitiveSites logos={competitiveSites.competitiveSites} />
               </div>
             </div>
           </Fade>
-          <Educations theme={this.props.theme} />
-          {certifications.certifications.length > 0 ? (
-            <Certifications theme={this.props.theme} />
-          ) : null}
+          // <Educations theme={this.props.theme} />
+          // {certifications.certifications.length > 0 ? (
+          //   <Certifications theme={this.props.theme} />
+          // ) : null}
         </div>
         <Footer theme={this.props.theme} />
         <TopButton theme={this.props.theme} />
