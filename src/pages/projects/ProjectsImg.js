@@ -6,8 +6,8 @@ export default class ProjectsImg extends Component {
 
     return (
       //<img
-        src="src/assets/images/group-photo.JPG" 
-        alt="Description of the image" 
+        src="src/assets/images/group-photo.JPG", 
+        alt="Description of the image", 
         style={{ width: "100%", height: "auto" }} 
       ///>
     );
