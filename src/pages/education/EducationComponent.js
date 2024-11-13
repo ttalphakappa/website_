@@ -32,7 +32,7 @@ class Education extends Component {
                   Software & Electrical
                 </h1>
                 <h3 className="heading-sub-text" style={{ color: theme.text }}>
-                  The software and electrical components behind the Lily Pad Plunge.
+                  About the software and electrical components of the Lily Pad Plunge.
                 </h3>
                 <CompetitiveSites logos={competitiveSites.competitiveSites} />
               </div>
