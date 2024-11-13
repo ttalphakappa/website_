@@ -1,6 +1,6 @@
 import React from "react";
 import "./StartupProjects.css";
-import { bigProjects } from "../../portfolio";
+import { bigProjects } from "../../portfolio"; // Ensure correct import based on export method
 
 export default function StartupProject() {
   function openProjectInNewWindow(url) {
@@ -18,10 +18,11 @@ export default function StartupProject() {
             {bigProjects.projects.map((project) => {
               return (
                 <div
+                  key={project.title} // Add a unique "key" prop for list items
                   className="saaya-health-div"
                   onClick={() => openProjectInNewWindow(project.link)}
                 >
-                  <img alt="Saad Working" src={project.image}></img>
+                  <img alt={project.title} src={project.image}></img>
                 </div>
               );
             })}
