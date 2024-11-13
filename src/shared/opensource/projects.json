@@ -119,7 +119,7 @@
           "iconifyClass": "logos-css-3"
         }
       ]
-    }
+    },
     {
       "id": "new_project_7",
       "name": "Project Seven",
@@ -131,8 +131,10 @@
         {
           "name": "Python",
           "iconifyClass": "logos-python"
-        },
-        {
+        }
+      ]
+    },
+    {
       "id": "new_project_8",
       "name": "Project Seven",
       "createdAt": "2024-11-12",
@@ -143,8 +145,10 @@
         {
           "name": "Python",
           "iconifyClass": "logos-python"
-        },
-        {
+        }
+      ]
+    },
+    {
       "id": "new_project_9",
       "name": "Project Seven",
       "createdAt": "2024-11-12",
@@ -155,8 +159,10 @@
         {
           "name": "Python",
           "iconifyClass": "logos-python"
-        },
-        {
+        }
+      ]
+    },
+    {
       "id": "new_project_10",
       "name": "Project Seven",
       "createdAt": "2024-11-12",
@@ -167,8 +173,10 @@
         {
           "name": "Python",
           "iconifyClass": "logos-python"
-        },
-        {
+        }
+      ]
+    },
+    {
       "id": "new_project_11",
       "name": "Project Seven",
       "createdAt": "2024-11-12",
@@ -179,8 +187,10 @@
         {
           "name": "Python",
           "iconifyClass": "logos-python"
-        },
-        {
+        }
+      ]
+    },
+    {
       "id": "new_project_12",
       "name": "Project Seven",
       "createdAt": "2024-11-12",
@@ -192,5 +202,7 @@
           "name": "Python",
           "iconifyClass": "logos-python"
         }
+      ]
+    }
   ]
 }
