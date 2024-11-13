@@ -372,7 +372,7 @@ const projectsHeader = {
 title: "About The Team",
 description:
 "Meet the team behind Lily Pad Plunge!",
- avatar_image_path: "group-photo.jpg",
+ avatar_image_path: "baovi.PNG",
 };
 
  const publicationsHeader = {
