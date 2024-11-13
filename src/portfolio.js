@@ -7,7 +7,7 @@ const settings = {
 //SEO Related settings
 const seo = {
   title: "Lily Pad Plunge",
-  description: "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Inspired by a claw machine, our game will feature a frog that users can maneuver left and right, aiming to drop it onto moving lily pads",
+  description: "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Inspired by a claw machine, our game will feature a frog that users can maneuver left and right, aiming to drop it onto moving lily pads.",
   og: {
     title: "Lily Pad Plunge",
     type: "website",
@@ -17,10 +17,10 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "The Alpha Kappas",
+  title: "Lily Pad Plunge",
   logo_name: "AlphaKappas",
-  nickname: "BY: THE ALPHA KAPPA PLEDGE CLASS",
-  subTitle: "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Featuring a frog that users can maneuver, aiming to drop it onto moving lily pads",
+  nickname: "THE ALPHA KAPPA CLASS",
+  subTitle: "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Featuring a frog that users can maneuver, aiming to drop it onto moving lily pads.",
   resumeLink:
     "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
   portfolio_repository: "https://github.com/ttalphakappa/website_/tree/main",
