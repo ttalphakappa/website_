@@ -20,7 +20,7 @@ const seo = {
 const greeting = {
   title: "The Alpha Kappas",
   logo_name: "AlphaKappas",
-  nickname: "BY: THE ALPHA KAPPA PLEDGE CLASS",
+  nickname: "",
   subTitle: "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Featuring a frog that users can maneuver, aiming to drop it onto moving lily pads",
   resumeLink:
     "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
