@@ -52,7 +52,8 @@ export default function Greeting(props) {
 						></img> */}
             <FeelingProud theme={theme} />
           </div>
-      </div>
+      	</div>	    
+       </div> 
     </Fade>
   );
 }
