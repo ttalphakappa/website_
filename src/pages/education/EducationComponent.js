@@ -20,7 +20,7 @@ class Education extends Component {
         <div className="basic-software">
           <Fade bottom duration={2000} distance="40px">
             <div className="heading-div">
-              <div className="heading-img-div">
+              // <div className="heading-img-div">
                 {/* <img
 									src={require("../../assets/images/education.svg")}
 									alt=""
@@ -32,16 +32,16 @@ class Education extends Component {
                   Software
                 </h1>
                 <h3 className="heading-sub-text" style={{ color: theme.text }}>
-                  dflsdnfldldldl
+                  website
                 </h3>
                 <CompetitiveSites logos={competitiveSites.competitiveSites} />
               </div>
             </div>
           </Fade>
-          // <Educations theme={this.props.theme} />
-          // {certifications.certifications.length > 0 ? (
-          //   <Certifications theme={this.props.theme} />
-          // ) : null}
+          <Educations theme={this.props.theme} />
+          {certifications.certifications.length > 0 ? (
+            <Certifications theme={this.props.theme} />
+          ) : null}
         </div>
         <Footer theme={this.props.theme} />
         <TopButton theme={this.props.theme} />
