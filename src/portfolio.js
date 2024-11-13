@@ -469,10 +469,10 @@ const contactPageData = {
     subtitle: "the pulley system........",
     avatar_image_path: "address_image.svg",
   },
-  /*phoneSection: {
+  phoneSection: {
     title: "",
     subtitle: "",
-  },*/
+  },
 }
 
 
