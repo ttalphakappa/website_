@@ -392,15 +392,15 @@ description:
 const contactPageData = {
   contactSection: {
     title: "The Gantry System",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "gantry.jpg",
+    profile_image_path2: "pin.jpg",
     description:
-      "the gantry system..........",
+      "The gantry system is made using a wheel and belt system. A 3D printed pin is placed within two rails which acts as a housing unit for the motor and pulley. Each rail is attached to its own belt allowing for movement along the x and y axis. Through this mechanism users are able to move the frog to their desired location and lower the frog to hopefully hit a moving lilypad.  ",
   },
   blogSection: {
     title: "Servo Motors",
-    subtitle:
-      "servo motors.......",
-    avatar_image_path: "blogs_image.svg"
+    subtitle: "servo motors.......",
+    avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Pulley System",
@@ -411,7 +411,7 @@ const contactPageData = {
     title: "",
     subtitle: "",
   },
-}
+};
 
 
  export {
