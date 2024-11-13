@@ -31,7 +31,7 @@ export default function Greeting(props) {
               <SocialMedia theme={theme} />
               <div className="portfolio-repo-btn-div">
                 <Button
-                  text="⭐ Star Me On Github"
+                  text="⭐Our Github Repository⭐"
                   newTab={true}
                   href={greeting.portfolio_repository}
                   theme={theme}
@@ -47,7 +47,7 @@ export default function Greeting(props) {
           <div className="greeting-image-div">
             {/* <img
 							alt="saad sitting on table"
-							src={require("../../assets/images/feelingProud.svg")}
+							src={require("../../assets/images/kevin.jpeg")}
 						></img> */}
             <FeelingProud theme={theme} />
           </div>
