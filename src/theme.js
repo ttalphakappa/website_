@@ -167,7 +167,7 @@ export const materialDarkTheme = {
   splashBg: "#4f5b62",
 };
 
-export const materialLightTheme = {
+export const lightTheme = {
   body: "#ffffff",
   text: "#4c2b91",
   expTxtColor: "#000000",
