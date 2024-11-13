@@ -8,7 +8,7 @@ import FullStackImg from "./FullStackImg";
 import CloudInfraImg from "./CloudInfraImg";
 import DesignImg from "./DesignImg";
 
-/*function GetSkillSvg(props) {
+function GetSkillSvg(props) {
   if (props.fileName === "DataScienceImg")
     return <DataScienceImg theme={props.theme} />;
   else if (props.fileName === "FullStackImg")
@@ -67,6 +67,6 @@ class SkillSection extends Component {
       </div>
     );
   }
-}*/
+}
 
 export default SkillSection;
