@@ -149,6 +149,15 @@ const degrees = {
 
 const certifications = {
   certifications: [
+    /*{
+      title: "Machine Learning",
+      subtitle: "- Andrew Ng",
+      logo_path: "",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
+      alt_name: "Stanford University",
+      color_code: "#8C151599",
+    },
     {
       title: "Deep Learning",
       subtitle: "- Andrew Ng",
@@ -246,7 +255,7 @@ const certifications = {
       certificate_link:
         "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
       alt_name: "GCP",
-      color_code: "#4285F499",
+      color_code: "#4285F499",*/
     },
   ],
 };
