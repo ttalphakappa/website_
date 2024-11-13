@@ -39,7 +39,7 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Mechanics",
+      title: "",
       fileName: "DataScienceImg",
       skills: [
         "⚡ gantry system",
