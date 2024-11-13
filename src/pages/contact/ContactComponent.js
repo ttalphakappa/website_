@@ -1,4 +1,4 @@
-/*import React, { Component } from "react";
+/**import React, { Component } from "react";
 import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
 import TopButton from "../../components/topButton/TopButton";
@@ -138,7 +138,7 @@ class Contact extends Component {
   }
 }
 
-export default Contact;*/
+export default Contact;**/
 
 // contact_component.js
 import React from 'react';
@@ -155,4 +155,3 @@ const ContactComponent = ({ name, role, contribution }) => {
 };
 
 export default ContactComponent;
-
