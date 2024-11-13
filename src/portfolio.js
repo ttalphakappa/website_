@@ -689,7 +689,7 @@ description:
  // mechanical + electrical page
 const contactPageData = {
   contactSection: {
-    title: "Mechanical + Electrical"
+    title: "Mechanical + Electrical",
     profile_image_path: "animated_ashutosh.png",
     description:
       "We are a group of emerging engineers who are passionate about many different things and love to be creative!",
