@@ -41,7 +41,7 @@ const skills = {
   data: [
     {
       title: "Leaderboard:",
-      fileName: "DesignImg",
+      filePath: "src/containers/skills/IMG_2027 2.png",
       skills: [
         "⚡⚡⚡ first place",
         "⚡⚡ second place",
