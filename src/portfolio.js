@@ -265,7 +265,11 @@ const certifications = {
    subtitle: "the progress of our engineering project",
    description:
      "10/20 - 11/13",
+<<<<<<< HEAD
    header_image_path: "./src/assets/images/wireboard.png",
+=======
+   header_image_path: "/assets/images/wireboard.png",
+>>>>>>> 8ccdbab9059f128e9c591fed2d24cf22045d2b1c
    sections: [
      {
        title: "Week 1: 10/20 - 10/27",
@@ -273,22 +277,14 @@ const certifications = {
        experiences: [
          {
            title: "10/20 - 10/23",
-           //company: "lots of cading, figuring out",
-           //company_url: "https://www.tiktok.com/en/",
            logo_path: "Unknown.png",
-           //duration: "June 2023 - Present",
-           //location: "San Jose, CA, USA",
            description:
              "Brainstormed potential ideas. Bought materials from Amazon and Home Depot. Created CAD designs for all parts",
            color: "#000000",
          },
          {
            title: "10/24 - 10/27",
-           //company: "Legato Health Technology",
-           //company_url: "https://legatohealthtech.com/",
            logo_path: "legato_logo.png",
-           //duration: "June 2020 - Aug 2021",
-           //location: "Hyderabad, Telangana",
            description:"Laser cut the wood and printed on our name",
            color: "#0879bf",
          },
@@ -299,33 +295,21 @@ const certifications = {
        experiences: [
          {
            title: "10/28",
-           //company: "TikTok Inc.",
-           //company_url: "https://www.tiktok.com/en/",
            logo_path: "tiktok_logo.png",
-           //duration: "May 2022 - Aug 2022",
-           //location: "San Francisco, USA",
            description:
              "Built the skeleton for the machine by super glueing the pieces together. Cut dividers and slits. Made pseudo code for game logic and moving.",
            color: "#000000",
          },
          {
            title: "10/29 - 10/31",
-           //company: "Delhivery Pvt. Ltd.",
-           //company_url: "https://www.delhivery.com/",
            logo_path: "delhivery_logo.png",
-           //duration: "May 2019 - Sept 2019",
-           //location: "Gurgaon, Haryana",
            description:
              "Tested DC motors and was able to make it turn properly. Implemented buttons to Arduino. Started the conveyer belt.",
            color: "#ee3c26",
          },
          {
            title: "11/01 - 11/02",
-           //company: "Intel Indexer LLC",
-           //company_url: "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
            logo_path: "intel_logo.jpg",
-           //duration: "Nov 2018 - Dec 2018",
-           //location: "Work From Home",
            description:
              "Mapped out website. Started learning how to use HTML, CSS, Javascript and Git.",
            color: "#0071C5",
@@ -337,33 +321,21 @@ const certifications = {
        experiences: [
          {
            title: "11/03 - 11/04",
-          //company: "Google",
-           //company_url: "https://about.google/",
            logo_path: "google_logo.png",
-          //duration: "June 2019 - April 2020",
-           //location: "Hyderabad, Telangana",
            description:
              "Programmed the Arduino. Tested the DC motor with the gantry system, but it was too weak + switched to servo motors.",
            color: "#4285F4",
          },
          {
            title: "11/05",
-           //company: "Microsoft",
-           //company_url: "https://www.microsoft.com/",
            logo_path: "microsoft_logo.png",
-           //duration: "Aug 2019 - May 2020",
-           //location: "Hyderabad, Telangana",
            description:
              "Began designing the website and distributed which parts every member can do.",
            color: "#D83B01",
          },
          {
            title: "11/06 - 11/07",
-           //company: "Mozilla",
-           //company_url: "https://www.mozilla.org/",
            logo_path: "mozilla_logo.png",
-           //duration: "Oct 2019 - May 2020",
-           //location: "Kurnool, Andhra Pradesh",
            description:
              "Finalized code for Arduino. Connected wheels to axel. ",
            color: "#000000",
@@ -375,33 +347,21 @@ const certifications = {
       experiences: [
         {
           title: "11/08 - 11/09",
-          //company: "Google",
-         // company_url: "https://about.google/",
           logo_path: "google_logo.png",
-          //duration: "June 2019 - April 2020",
-          //location: "Hyderabad, Telangana",
           description:
             "Finished our prototype. Debugged all issues. Soldered all wires to ensure nothing would move.",
           color: "#4285F4",
         },
         {
           title: "11/10 - 11/11",
-          //company: "Microsoft",
-          //company_url: "https://www.microsoft.com/",
           logo_path: "microsoft_logo.png",
-          //duration: "Aug 2019 - May 2020",
-          //location: "Hyderabad, Telangana",
           description:
             "Finished painting wood. Added pictures of frogs and lily pads to match with the game.",
           color: "#D83B01",
         },
         {
           title: "11/12 - 11/13",
-          //company: "Mozilla",
-          //company_url: "https://www.mozilla.org/",
           logo_path: "mozilla_logo.png",
-          //duration: "Oct 2019 - May 2020",
-          //location: "Kurnool, Andhra Pradesh",
           description:
             "Added all pictures of parts. Finished the website.",
           color: "#000000",
@@ -474,6 +434,7 @@ const contactPageData = {
     subtitle: "",
   },
 }
+
 
  export {
  settings,
