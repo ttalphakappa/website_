@@ -40,7 +40,7 @@ const skills = {
   data: [
     {
       title: "Leaderboard:",
-      fileName: "DesignImg",
+      fileName: "game",
       skills: [
         "⚡⚡⚡ first place",
         "⚡⚡ second place",
