@@ -62,18 +62,6 @@ class Header extends Component {
               </li>
               <li>
                 <NavLink
-                  to="/Experience"
-                  tag={Link}
-                  activeStyle={{ fontWeight: "bold" }}
-                  style={{ color: theme.text }}
-                  onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
-                  onMouseOut={(event) => onMouseOut(event)}
-                >
-                  Timeline
-                </NavLink>
-              </li>
-              <li>
-                <NavLink
                   to="/contact"
                   tag={Link}
                   activeStyle={{ fontWeight: "bold" }}
@@ -82,6 +70,18 @@ class Header extends Component {
                   onMouseOut={(event) => onMouseOut(event)}
                 >
                   Mechanical + Electrical
+                </NavLink>
+              </li>
+              <li>
+                <NavLink
+                  to="/Experience"
+                  tag={Link}
+                  activeStyle={{ fontWeight: "bold" }}
+                  style={{ color: theme.text }}
+                  onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
+                  onMouseOut={(event) => onMouseOut(event)}
+                >
+                  Timeline
                 </NavLink>
               </li>
               <li>
