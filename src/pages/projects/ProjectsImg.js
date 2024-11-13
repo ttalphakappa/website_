@@ -2,6 +2,23 @@ import React, { Component } from "react";
 
 export default class ProjectsImg extends Component {
   render() {
+    const theme = this.props.theme; 
+
+    return (
+      <img
+        src="src/assets/images/group-photo.JPG" 
+        alt="Description of the image" 
+        style={{ width: "100%", height: "auto" }} 
+      />
+    );
+  }
+}
+
+
+/**import React, { Component } from "react";
+
+export default class ProjectsImg extends Component {
+  render() {
     const theme = this.props.theme;
     return (
       <svg
@@ -596,4 +613,4 @@ export default class ProjectsImg extends Component {
       </svg>
     );
   }
-}
+}**/
