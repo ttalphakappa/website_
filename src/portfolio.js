@@ -265,7 +265,7 @@ const certifications = {
    subtitle: "the progress of our engineering project",
    description:
      "10/20 - 11/13",
-     header_image_path: "/assets/images/wireboard.png",
+     header_image_path: "wireboard.png",
    sections: [
      {
        title: "Week 1: 10/20 - 10/27",
