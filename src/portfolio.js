@@ -64,7 +64,7 @@ const skills = {
 // Software Page
 const competitiveSites = {
   competitiveSites: [
-    {
+    /**{
       siteName: "LeetCode",
       iconifyClassname: "simple-icons:leetcode",
       style: {
@@ -111,7 +111,7 @@ const competitiveSites = {
         color: "#20BEFF",
       },
       profileLink: "https://www.kaggle.com/laymanbrother",
-    },
+    },**/
   ],
 };
 
