@@ -252,6 +252,5 @@ export {
   projectsHeader,
   publicationsHeader,
   publications,
-  contactPageData,
-  bigProjects
+  contactPageData
 };
