@@ -58,7 +58,7 @@ class Projects extends Component {
             return <GithubRepoCard repo={repo} theme={theme} />;
           })}
         </div>
-        <Button
+        <Button>
           text={"More Projects"}
           className="project-button"
           href={greeting.githubProfile}
