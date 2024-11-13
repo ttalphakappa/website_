@@ -162,9 +162,9 @@
   font-family: "Google Sans Regular";
   text-align: center;
   margin-bottom: 10px;
-  word-wrap: break-word; /* Ensures long text can break to the next line */
-  white-space: normal; /* Allows the text to break */
-  width: 100%; /* Ensure the subheader has enough space to expand */
+  word-wrap: break-word;
+  white-space: normal;
+  width: 100%;
 }
 
 .projects-header-detail-text {
@@ -199,6 +199,62 @@
   margin-top: 60px;
 }
 
+/* New styles for profile cards */
+.profile-cards-div-main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 50px;
+  gap: 1.5rem;
+}
+
+.profile-card {
+  background-color: #fff;
+  padding: 20px;
+  margin: 15px;
+  border-radius: 8px;
+  width: 250px;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.profile-card:hover {
+  transform: translateY(-5px);
+}
+
+.profile-photo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 15px;
+  background-color: #e0e0e0; /* Gray background when no image */
+}
+
+.profile-card h2 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: var(--text-color);
+  margin: 10px 0;
+}
+
+.profile-card p {
+  font-size: 1rem;
+  color: var(--secondary-text-color);
+  margin-bottom: 10px;
+}
+
+.profile-card a {
+  font-size: 1rem;
+  color: #0077b5; 
+  text-decoration: none;
+}
+
+.profile-card a:hover {
+  text-decoration: underline;
+}
+
 @media (max-width: 1380px) {
   .projects-heading-text {
     font-size: 50px;
@@ -218,7 +274,6 @@
 
   .projects-heading-sub-text {
     font-size: 20px;
-    word-wrap: break-word; /* Ensure wrapping on smaller screens */
   }
 
   .projects-heading-div {
@@ -240,4 +295,3 @@
     margin-top: 30px;
   }
 }
-
