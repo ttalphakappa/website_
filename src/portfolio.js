@@ -689,7 +689,7 @@ description:
    ],
  };
  // Contact Page
- /*const contactPageData = {
+const contactPageData = {
   contactSection: {
     title: "ALPHA KAPPA PLEDGE CLASS",
     profile_image_path: "animated_ashutosh.png",
@@ -718,41 +718,7 @@ description:
     title: "",
     subtitle: "",
   },
-}*/
-// portfolio.js
-
-const contactPageData = {
-    title: "Contact Page",
-    description: "This is the contact page data.",
-    // add other properties as needed
-};
-
-const teamMembers = [
-    { name: 'Member 1', role: 'Developer', contribution: 'Worked on frontend design' },
-    { name: 'Member 2', role: 'Backend Engineer', contribution: 'Built REST API' },
-    // ... add all 12 members here
-];
-
-const Portfolio = () => {
-    return (
-        <div className="contact-main">
-            <h1 className="contact-heading-text">Team Contributions</h1>
-            <div className="team-container">
-                {teamMembers.map((member, index) => (
-                    <ContactComponent 
-                        key={index} 
-                        name={member.name} 
-                        role={member.role} 
-                        contribution={member.contribution} 
-                    />
-                ))}
-            </div>
-        </div>
-    );
-};
-
-export default Portfolio;
-
+}
 
 
  export {
