@@ -7,6 +7,20 @@
       "url": "https://www.linkedin.com/in/kevin-nie-b99874286",
       "description": "Project Lead, Lead Mechanical Engineer",
       "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
     },
     {
       "id": "R_kgDOG_vYHA",
