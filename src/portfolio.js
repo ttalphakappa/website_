@@ -1,6 +1,5 @@
 /* Change this file to get your personal Porfolio */
 import React from 'react';
-import './pages/contact/ContactComponent.css';
 import ContactComponent from './pages/contact/ContactComponent';
 // Website related settings
 const settings = {
@@ -731,9 +730,6 @@ const contactPageData = {
 const teamMembers = [
     { name: 'Member 1', role: 'Developer', contribution: 'Worked on frontend design' },
     { name: 'Member 2', role: 'Backend Engineer', contribution: 'Built REST API' },
-    { name: 'Member 1', role: 'Developer', contribution: 'Worked on frontend design' },
-    { name: 'Member 2', role: 'Backend Engineer', contribution: 'Built REST API' },
-    { name: 'Member 3', role: 'Project Manager', contribution: 'Coordinated team tasks' },
     // ... add all 12 members here
 ];
 
