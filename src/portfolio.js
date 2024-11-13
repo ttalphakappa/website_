@@ -647,11 +647,11 @@ const certifications = {
    ],
  };
 
-// mech + electical Page
+// about the team page
 const projectsHeader = {
-title: "Mechanical + Electrical",
+title: "About The Team",
 description:
-"different wires and pins and the mechanical parts",
+"Meet the team behind Lily Pad Plunge.",
  avatar_image_path: "projects_image.svg",
 };
 
