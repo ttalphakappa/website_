@@ -26,10 +26,10 @@ class Projects extends Component {
           <Fade bottom duration={2000} distance="40px">
             <div className="projects-heading-div">
               <div className="projects-heading-img-div">
-                <img
-                  src={require(`../../assets/images/${projectsHeader["avatar_image_path"]}`).default}
-                  alt="" // Add an alt description for accessibility
-                />
+                {/* <img
+											src={require(`../../assets/images/${projectsHeader["avatar_image_path"]}`)}
+											alt=""
+										/> */}
                 <ProjectsImg theme={theme} />
               </div>
               <div className="projects-heading-text-div">
@@ -49,26 +49,20 @@ class Projects extends Component {
             </div>
           </Fade>
         </div>
-      </div>
-    );
-  }
-}<>
-  <div className="repo-cards-div-main">
-    {ProjectsData.data.map((repo) => {
-      return <GithubRepoCard repo={repo} theme={theme} />;
-    })}
-  </div>
-  <Button
-    text={"More Projects"}
-    className="project-button"
-    href={greeting.githubProfile}
-    newTab={true}
-    theme={theme}
-  />
-</>
+        <div className="repo-cards-div-main">
+          {ProjectsData.data.map((repo) => {
+            return <GithubRepoCard repo={repo} theme={theme} />;
+          })}
+        </div>
+        <Button
+          text={"More Projects"}
+          className="project-button"
+          href={greeting.githubProfile}
+          newTab={true}
+          theme={theme}
+        />
 
         {/* Publications  */}
-
         {publications.data.length > 0 ? (
           <div className="basic-projects">
             <Fade bottom duration={2000} distance="40px">
