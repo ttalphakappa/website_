@@ -61,7 +61,7 @@ const skills = {
   ],
 };
 
-// Education Page
+// Software Page
 const competitiveSites = {
   competitiveSites: [
     {
