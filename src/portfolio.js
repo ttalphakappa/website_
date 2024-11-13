@@ -19,7 +19,7 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Lily Pad Plunge",
+  title: "Alpha Kappa",
   logo_name: "AlphaKappas",
   nickname: "BY: THE ALPHA KAPPA PLEDGE CLASS",
   subTitle: "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Featuring a frog that users can maneuver, aiming to drop it onto moving lily pads",
@@ -496,7 +496,7 @@ const certifications = {
            //duration: "May 2022 - Aug 2022",
            //location: "San Francisco, USA",
            description:
-             "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
+             "Finished laser cutting all of the wood and ",
            color: "#000000",
          },
          {
@@ -507,7 +507,7 @@ const certifications = {
            //duration: "May 2019 - Sept 2019",
            //location: "Gurgaon, Haryana",
            description:
-             "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
+             "Started on the reed switch sensor grid. Implemented buttons to Arduino. ",
            color: "#ee3c26",
          },
          {
@@ -519,7 +519,7 @@ const certifications = {
            duration: "Nov 2018 - Dec 2018",
            location: "Work From Home",
            description:
-             "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
+             "Mapped out website. Started learning how to use HTML, CSS, Javascriptn and Git.",
            color: "#0071C5",
          },
        ],
