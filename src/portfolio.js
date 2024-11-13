@@ -138,6 +138,7 @@ const degrees = {
       alt_name: "Indiana University Bloomington",
       // duration: "2021 - 2023",
       descriptions: [
+        "⚡ The Arduino processes inputs from buttons and controls the servos and LCD display. It executes the programmed logic to manage game functions while coordinating communication between the various components.",
         "⚡ Servos typically draw a significant amount of current, so we have included two battery packs to ensure a stable power supply. Two of the servos are responsible for maneuvering the gantry system, one servo is used to raise and lower the frog, and another servo controls the movement of the lily pads.",
         "⚡ ",
         "⚡ ",
