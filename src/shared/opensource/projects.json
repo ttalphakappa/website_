@@ -125,8 +125,8 @@
       "name": "Tyler Jung",
       "createdAt": "Howdy, I'm Tyler! I'm a second year studying Physics and Data Science at UC Berkeley. I like skiing, playing violin, and eating. Reach me at tylerjung@berkeley.edu",
       "url": "https://www.linkedin.com/in/tyler-jung-b55a88267/",
-      "description": "Software and Website Developer, Electrical Design and Assembly",
-      "isFork": true,
+      "description": "Howdy, I'm Tyler! I'm a second year studying Physics and Data Science at UC Berkeley. I like skiing, playing violin, and eating. Reach me at tylerjung@berkeley.edu",
+      "isFork": false,
       "languages": [
         {
           "name": "Python",
