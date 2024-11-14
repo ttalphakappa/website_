@@ -116,11 +116,11 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
+      title: "Mechanical and Electrical",
+      subtitle: "Kevin, Jeannine, Porter, Megan, Tayler, Tyler and Riley",
       logo_path: "iiitk_logo.png",
       alt_name: "IIITDM Kurnool",
-      duration: "2016 - 2020",
+      duration: "Phase 1",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
@@ -129,7 +129,7 @@ const degrees = {
       website_link: "http://iiitk.ac.in",
     },
     {
-      title: "Indiana University Bloomington",
+      title: "Arduino Code",
       subtitle: "M.S. in Computer Science",
       logo_path: "iu_logo.png",
       alt_name: "Indiana University Bloomington",
