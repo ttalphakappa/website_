@@ -41,7 +41,7 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Leaderboard:",
+      title: "Leader:",
       fileName: "game",
       skills: ["⚡⚡⚡ first place", "⚡⚡ second place", "⚡ third place"],
       softwareSkills: [
