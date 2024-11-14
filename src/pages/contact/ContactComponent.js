@@ -29,10 +29,10 @@ class Contact extends Component {
                   src={require(`../../assets/images/${ContactData["profile_image_path"]}`)}
                   alt=""
                 />
-                <img
+                {/* <img
                   src={require(`../../assets/images/${ContactData["profile_image_path2"]}`)}
                   alt=""
-                />
+                /> */}
               </div>
               <div className="contact-heading-text-div">
                 <h1
@@ -49,12 +49,12 @@ class Contact extends Component {
                 </p>
                 <SocialMedia theme={theme} />
                 <div className="resume-btn-div">
-                  <Button
+                  {/* <Button
                     text="See My Resume"
                     newTab={true}
                     href={greeting.resumeLink}
                     theme={theme}
-                  />
+                  /> */}
                 </div>
               </div>
             </div>
@@ -72,12 +72,12 @@ class Contact extends Component {
                   {blogSection["subtitle"]}
                 </p>
                 <div className="blogsite-btn-div">
-                  <Button
+                  {/* <Button
                     text="Visit My Blogsite"
                     newTab={true}
                     href={blogSection.link}
                     theme={theme}
-                  />
+                  /> */}
                 </div>
               </div>
               <div className="blog-heading-img-div">
@@ -125,12 +125,12 @@ class Contact extends Component {
                   {phoneSection["subtitle"]}
                 </p>
                 <div className="address-btn-div">
-                  <Button
+                  {/* <Button
                     text="Visit on Google Maps"
                     newTab={true}
                     href={addressSection.location_map_link}
                     theme={theme}
-                  />
+                  /> */}
                 </div>
               </div>
             </div>

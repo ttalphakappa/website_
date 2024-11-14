@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import kevinImage from "../../assets/images/kevin.jpeg";
+import kevinImage from "../../assets/images/front.png";
 
 class FeelingProud extends Component {
   render() {
@@ -356,7 +356,7 @@ class FeelingProud extends Component {
             width: "100%",
             maxWidth: "400px", // Adjust max width as needed
             borderRadius: "10px", // Optional: add a border radius for styling
-            border: `2px solid ${theme.text}` // Optional: theme-based border color
+            border: `2px solid ${theme.text}`, // Optional: theme-based border color
           }}
         />
       </div>

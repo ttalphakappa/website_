@@ -1,4 +1,4 @@
-  {
+{
   "data": [
     {
       "id": "R_kgDOJWL0-g",
@@ -7,9 +7,7 @@
       "url": "https://www.linkedin.com/in/kevin-nie-b99874286",
       "description": "Project Lead",
       "isFork": false,
-      "languages": [
-        
-      ]
+      "languages": []
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
@@ -18,9 +16,7 @@
       "url": "https://www.linkedin.com/in/porter-tien/",
       "description": "Project Lead",
       "isFork": false,
-      "languages": [
-        
-      ]
+      "languages": []
     },
     {
       "id": "R_kgDOG_vYHA",
@@ -29,9 +25,7 @@
       "url": "https://www.linkedin.com/in/paul-nk-tran/",
       "description": "Mechanical Engineering Lead",
       "isFork": false,
-      "languages": [
-        
-      ]
+      "languages": []
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
@@ -40,9 +34,7 @@
       "url": "https://www.linkedin.com/in/jeannineruiz/",
       "description": "Software Engineering Lead",
       "isFork": false,
-      "languages": [
-        
-      ]
+      "languages": []
     },
     {
       "id": "R_kgDOG0_8uQ",
@@ -51,9 +43,7 @@
       "url": "https://www.linkedin.com/in/transhayna/",
       "description": "Website Co-Lead, Electrical Assembly",
       "isFork": false,
-      "languages": [
-        
-      ]
+      "languages": []
     },
     {
       "id": "R_kgDOGcPKSQ",
@@ -62,9 +52,7 @@
       "url": "https://www.linkedin.com/in/shantajoshi/",
       "description": "Website Co-Lead",
       "isFork": false,
-      "languages": [
-        
-      ]
+      "languages": []
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
@@ -73,9 +61,7 @@
       "url": "https://www.linkedin.com/in/tyler-jung-b55a88267/",
       "description": "Software and Website Developer, Electrical Design and Assembly",
       "isFork": false,
-      "languages": [
-        
-      ]
+      "languages": []
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
@@ -84,21 +70,16 @@
       "url": "https://www.linkedin.com/in/meganewong/",
       "description": "Software and Website Developer, Mechanical Design and Assembly",
       "isFork": false,
-      "languages": [
-        
-      ]
+      "languages": []
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
       "name": "Baovi Nguyen",
-      "photo": "images/baovi.PNG",
       "createdAt": "Hi! My name is Baovi and I am a 2nd year studying Computer Science. I like swimming, exploring new places, and arts & crafts. Feel free to contact me at baovi@berkeley.edu!",
       "url": "https://www.linkedin.com/in/baovi-nguyen-12a53132b/",
       "description": "Software and Website Developer",
       "isFork": false,
-      "languages": [
-        
-      ]
+      "languages": []
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
@@ -107,20 +88,16 @@
       "url": "https://www.linkedin.com/in/kassidychinbrown/",
       "description": "Electrical and Mechanical Assembly, User Interface Design",
       "isFork": false,
-      "languages": [
-        
-      ]
+      "languages": []
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
       "name": "Tayler Nguyen",
-      "createdAt": "Hello hello hello",
+      "createdAt": "Hey what's up! I am an EECS major at Berkeley. In my free time, I like winter sports and working with electrical assembly!",
       "url": "https://www.linkedin.com/in/taylerhn/",
       "description": "Electrical and Mechanical Design and Assembly, Software Developer",
       "isFork": false,
-      "languages": [
-        
-      ]
+      "languages": []
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
@@ -129,9 +106,7 @@
       "url": "https://www.linkedin.com/in/rileyeaster/",
       "description": "Electrical and Mechanical Design and Assembly, Website Developer",
       "isFork": false,
-      "languages": [
-        
-      ]
+      "languages": []
     }
   ]
 }

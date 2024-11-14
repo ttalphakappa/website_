@@ -25,14 +25,15 @@ class Education extends Component {
 									src={require("../../assets/images/education.svg")}
 									alt=""
 								/> */}
-                <EducationImg theme={theme} />
+                {/*<EducationImg theme={theme} />*/}
               </div>
               <div className="heading-text-div">
                 <h1 className="heading-text" style={{ color: theme.text }}>
                   Software & Electrical
                 </h1>
                 <h3 className="heading-sub-text" style={{ color: theme.text }}>
-                  About the software and electrical components of the Lily Pad Plunge.
+                  About the software and electrical components of the Lily Pad
+                  Plunge.
                 </h3>
                 <CompetitiveSites logos={competitiveSites.competitiveSites} />
               </div>

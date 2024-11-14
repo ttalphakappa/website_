@@ -26,10 +26,12 @@ class Projects extends Component {
           <Fade bottom duration={2000} distance="40px">
             <div className="projects-heading-div">
               <div className="projects-heading-img-div">
-                {<img
-											src={require(`../../assets/images/${projectsHeader["avatar_image_path"]}`)}
-											alt=""
-										/>}
+                {
+                  <img
+                    src={require(`../../assets/${projectsHeader["avatar_image_path"]}`)}
+                    alt=""
+                  />
+                }
               </div>
               <div className="projects-heading-text-div">
                 <h1
@@ -54,7 +56,7 @@ class Projects extends Component {
           })}
         </div>
 
-	<div className="profile-cards-div-main">
+        {/* <div className="profile-cards-div-main">
 	  {ProjectsData.data.map((profile) => (
 	    <div className="profile-card" key={profile.id}>
 	      {profile.photo && (
@@ -71,18 +73,17 @@ class Projects extends Component {
 	      </a>
 	    </div>
 	  ))}
-	</div>
+	</div> */}
 
-        <div className="repo-cards-div-main">
+        {/* <div className="repo-cards-div-main">
           {publications.data.map((pub) => {
             return <PublicationCard pub={pub} theme={theme} key={pub.id}/>;
           })}
-        </div>
+        </div> */}
 
         <Footer theme={this.props.theme} onToggle={this.props.onToggle} />
         <TopButton theme={this.props.theme} />
       </div>
-
     );
   }
 }

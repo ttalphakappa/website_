@@ -11,9 +11,10 @@ class Educations extends Component {
       <div className="main" id="educations">
         <div className="educations-header-div">
           <Fade bottom duration={2000} distance="20px">
-            <h1 className="educations-header" style={{ color: theme.text }}>
-              Arduino
-            </h1>
+            <h1
+              className="educations-header"
+              style={{ color: theme.text }}
+            ></h1>
           </Fade>
         </div>
         <div className="educations-body-div">
