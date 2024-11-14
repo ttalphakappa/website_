@@ -6,7 +6,7 @@ import TalkCard from "../../components/talkCard/TalkCard";
 export default function Talks() {
   return (
     <div className="main" id="talks">
-      <div className="talk-header">
+      {/* <div className="talk-header">
         <h1 className="talk-header-title">{talkSection.title}</h1>
         <p className="subTitle talk-header-subtitle">{talkSection.subtitle}</p>
         {talkSection.talks.map((talk) => {
@@ -22,7 +22,7 @@ export default function Talks() {
             />
           );
         })}
-      </div>
+      </div> */}
     </div>
   );
 }
