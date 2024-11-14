@@ -1,11 +1,11 @@
 import React from "react";
 import "./Podcast.css";
-import { podcastSection } from "../../portfolio";
+// import { podcastSection } from "../../portfolio";
 
 export default function Podcast() {
   return (
     <div className="main">
-      <div className="podcast-header">
+      {/* <div className="podcast-header">
         <h1 className="podcast-header-title">{podcastSection.title}</h1>
         <p className="subTitle podcast-header-subtitle">
           {podcastSection.subtitle}
@@ -25,7 +25,7 @@ export default function Podcast() {
             </div>
           );
         })}
-      </div>
+      </div> */}
     </div>
   );
 }

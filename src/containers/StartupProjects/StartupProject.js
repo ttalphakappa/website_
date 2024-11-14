@@ -1,6 +1,6 @@
 import React from "react";
 import "./StartupProjects.css";
-import { bigProjects } from "../../portfolio"; // Ensure correct import based on export method
+// import { bigProjects } from "../../portfolio"; // Ensure correct import based on export method
 
 export default function StartupProject() {
   function openProjectInNewWindow(url) {
@@ -10,7 +10,7 @@ export default function StartupProject() {
 
   return (
     <div className="main" id="projects">
-      <div>
+      {/* <div>
         <h1 className="skills-heading">{bigProjects.title}</h1>
         <p className="subTitle project-subtitle">{bigProjects.subtitle}</p>
         <div className="startup-projects-main">
@@ -29,7 +29,7 @@ export default function StartupProject() {
           </div>
           <div className="starup-project-image"></div>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 }
