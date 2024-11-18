@@ -2,7 +2,7 @@
   "private": true,
   "name": "Lily Pad Plunge",
   "version": "0.1.0",
-  "homepage": "https://ttalphakappa.github.io/",
+  "homepage": "https://ttalphakappa.github.io",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
