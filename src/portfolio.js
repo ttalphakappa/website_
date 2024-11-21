@@ -22,7 +22,7 @@ const greeting = {
   logo_name: "AlphaKappas",
   nickname: "THE ALPHA KAPPA CLASS",
   subTitle:
-    "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. This features a frog that users can maneuver and aimi to drop it onto moving lily pads.",
+    "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. This features a frog that users can maneuver and aim to drop it onto moving lily pads.",
   resumeLink:
     "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
   portfolio_repository: "https://github.com/ttalphakappa/website_/tree/main",
@@ -36,13 +36,19 @@ const socialMediaLinks = [
     //fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     // backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
+  {
+    name: "YouTube",
+    link: "https://youtube.com/shorts/adS7v2vnHe4",
+    fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
+    backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
+  },
 ];
 
 const skills = {
   data: [
     {
       title: "Leaderboard:",
-      fileName: "game",
+      videoLink: "https://www.youtube.com/embed/adS7v2vnHe4",
       skills: ["⚡⚡⚡ first place", "⚡⚡ second place", "⚡ third place"],
       softwareSkills: [
         {
@@ -57,6 +63,43 @@ const skills = {
       ],
     },
   ],
+};
+
+const SkillsSection = () => {
+  return (
+    <div>
+      {skills.data.map((item, index) => (
+        <div key={index} className="skill-item">
+          <h2>{item.title}</h2>
+          {/* Embedding the YouTube video */}
+          <div className="video-container">
+            <iframe
+              src={item.videoLink}
+              title={`Video for ${item.title}`}
+              width="640"
+              height="360"
+              frameBorder="0"
+              allow="autoplay; fullscreen; picture-in-picture"
+              allowFullScreen
+            ></iframe>
+          </div>
+          <ul>
+            {item.skills.map((skill, i) => (
+              <li key={i}>{skill}</li>
+            ))}
+          </ul>
+          <div className="software-skills">
+            {item.softwareSkills.map((software, i) => (
+              <div key={i} style={software.style}>
+                <i className={software.fontAwesomeClassname}></i>
+                {software.skillName}
+              </div>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+  );
 };
 
 // Education Page
@@ -442,6 +485,7 @@ export {
   greeting,
   socialMediaLinks,
   skills,
+  SkillsSection,
   competitiveSites,
   degrees,
   certifications,
