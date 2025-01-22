@@ -10,7 +10,7 @@ const seo = {
   description:
     "We are aiming to design and build a physical arcade-style game that offers an engaging and interactive experience for players. Inspired by a claw machine, our game will feature a frog that users can maneuver left and right, aiming to drop it onto moving lily pads.",
   og: {
-    title: "Lily Pad Plunge",
+    title: "LilyPadPlunge",
     type: "website",
     url: "https://lilypadplunge.netlify.app/",
   },
@@ -18,7 +18,7 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "LilyPadPlunge",
+  title: "Lily Pad Plunge",
   logo_name: "AlphaKappas",
   nickname: "THE ALPHA KAPPA CLASS",
   subTitle:
